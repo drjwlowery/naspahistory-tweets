@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 16 19:25:07 +0000 2018",
+		"id": 985962310618566700,
+		"id_str": "985962310618566656",
+		"text": "Share Your Story: @NASPAtweets invites your contributions of stories of inspiration &amp; memories of leaders, mentors,… https://t.co/VrNmbMh0pE",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						18,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VrNmbMh0pE",
+					"expanded_url": "https://twitter.com/i/web/status/985962310618566656",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 16 18:24:36 +0000 2018",
+		"id": 985947080798720000,
+		"id_str": "985947080798720000",
+		"text": "@shawnbrackett There are several involved in the 100th Anniversary Committee.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shawnbrackett",
+					"name": "Shawn Brackett",
+					"id": 12680402,
+					"id_str": "12680402",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 985946674886393900,
+		"in_reply_to_status_id_str": "985946674886393857",
+		"in_reply_to_user_id": 12680402,
+		"in_reply_to_user_id_str": "12680402",
+		"in_reply_to_screen_name": "shawnbrackett",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 16 18:15:32 +0000 2018",
+		"id": 985944797214138400,
+		"id_str": "985944797214138377",
+		"text": "@shawnbrackett That is a question being looked at this year. During this period, there was also a separate organiza… https://t.co/0qkrOJva5S",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shawnbrackett",
+					"name": "Shawn Brackett",
+					"id": 12680402,
+					"id_str": "12680402",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0qkrOJva5S",
+					"expanded_url": "https://twitter.com/i/web/status/985944797214138377",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 985922467213422600,
+		"in_reply_to_status_id_str": "985922467213422592",
+		"in_reply_to_user_id": 12680402,
+		"in_reply_to_user_id_str": "12680402",
+		"in_reply_to_screen_name": "shawnbrackett",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 16 16:35:14 +0000 2018",
+		"id": 985919558274961400,
+		"id_str": "985919558274961414",
+		"text": "The earliest record of an African-American student affairs professional involved in NASPA was Dean Armour J. Blackb… https://t.co/ZqKNCiNGaf",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZqKNCiNGaf",
+					"expanded_url": "https://twitter.com/i/web/status/985919558274961414",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 15 20:22:38 +0000 2018",
 		"id": 985614394443911200,
 		"id_str": "985614394443911168",
