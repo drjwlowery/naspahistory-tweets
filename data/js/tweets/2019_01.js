@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 19:05:14 +0000 2019",
+		"id": 1083439641448140800,
+		"id_str": "1083439641448140800",
+		"full_text": "As we prepare for #NASPA19 in Los Angeles, take a look back at the 1980 @NASPAtweets  program covers. The theme was Higher Education on No Frills: Strategies for Change. #NASPA100 https://t.co/elcONx1gD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA19",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "NASPA100",
+					"indices": [
+						170,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						72,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083439638675685400,
+					"id_str": "1083439638675685376",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/DwkmnG7XgAAgVrC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwkmnG7XgAAgVrC.jpg",
+					"url": "https://t.co/elcONx1gD8",
+					"display_url": "pic.twitter.com/elcONx1gD8",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1083439641448140800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 309,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 309,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 309,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083439638675685400,
+					"id_str": "1083439638675685376",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/DwkmnG7XgAAgVrC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwkmnG7XgAAgVrC.jpg",
+					"url": "https://t.co/elcONx1gD8",
+					"display_url": "pic.twitter.com/elcONx1gD8",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1083439641448140800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 309,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 309,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 309,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As we prepare for #NASPA19 in Los Angeles, take a look back at the 1980 @NASPAtweets  program covers. The theme was Higher Education on No Frills: Strategies for Change. #NASPA100 https://t.co/elcONx1gD8"
+	},
+	{
+		"created_at": "Thu Jan 10 17:25:10 +0000 2019",
+		"id": 1083414457206952000,
+		"id_str": "1083414457206951938",
+		"full_text": ".@NASPAtweets was a founding member of COSPA. Learn more about NASPA's role in @JaredTuberty's dissertation, The Council of Student Personnel Associations in Higher Education: A Historical Analysis of Inter-Association Collaboration in Student Affairs. https://t.co/aGDGOAMrvX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"screen_name": "JaredTuberty",
+					"name": "Jared Tuberty",
+					"id": 467959557,
+					"id_str": "467959557",
+					"indices": [
+						79,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aGDGOAMrvX",
+					"expanded_url": "http://ow.ly/KZGr30n8DzW",
+					"display_url": "ow.ly/KZGr30n8DzW",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@NASPAtweets was a founding member of COSPA. Learn more about NASPA's role in @JaredTuberty's dissertation, The Council of Student Personnel Associations in Higher Education: A Historical Analysis of Inter-Association Collaboration in Student Affairs. https://t.co/aGDGOAMrvX"
+	},
+	{
 		"created_at": "Tue Jan 08 19:40:13 +0000 2019",
 		"id": 1082723671259734000,
 		"id_str": "1082723671259734016",
