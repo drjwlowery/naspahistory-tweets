@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 18:10:13 +0000 2019",
+		"id": 1087774451540918300,
+		"id_str": "1087774451540918272",
+		"full_text": "In 1966, K, Patricia Cross was appointed to serve on the @NASPAtweets  executive committee. She served as assistant dean of women at @Illinois_Alma &amp; dean of students at @Cornell. Learn more about her work through this collection of her speeches. https://t.co/RFgZAF3qek #NASPA100",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						275,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "Illinois_Alma",
+					"name": "University of Illinois",
+					"id": 18165866,
+					"id_str": "18165866",
+					"indices": [
+						133,
+						147
+					]
+				},
+				{
+					"screen_name": "Cornell",
+					"name": "Cornell University",
+					"id": 17369110,
+					"id_str": "17369110",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RFgZAF3qek",
+					"expanded_url": "http://ow.ly/2ygL30noNmv",
+					"display_url": "ow.ly/2ygL30noNmv",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 1966, K, Patricia Cross was appointed to serve on the @NASPAtweets  executive committee. She served as assistant dean of women at @Illinois_Alma &amp; dean of students at @Cornell. Learn more about her work through this collection of her speeches. https://t.co/RFgZAF3qek #NASPA100"
+	},
+	{
 		"created_at": "Thu Jan 17 18:20:14 +0000 2019",
 		"id": 1085965030040969200,
 		"id_str": "1085965030040969216",
