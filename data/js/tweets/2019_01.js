@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 18:01:29 +0000 2019",
+		"id": 1088859415279734800,
+		"id_str": "1088859415279734785",
+		"full_text": "The notes of the 1919 @NASPAtweets conference at @UWMadison were taken by Professor Louis A. Strauss of @UMich. This section describes Scott Goodnight's driving suggests that Strauss had a keen sense of humor. You can read the full notes here: https://t.co/UX1WXKUQcI #NASPA100 https://t.co/ePj6fdTVuT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "UWMadison",
+					"name": "UW-Madison",
+					"id": 15763818,
+					"id_str": "15763818",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "UMich",
+					"name": "University of Michigan",
+					"id": 88836132,
+					"id_str": "88836132",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UX1WXKUQcI",
+					"expanded_url": "http://ow.ly/d/8bnf",
+					"display_url": "ow.ly/d/8bnf",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088859413581099000,
+					"id_str": "1088859413581099008",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxxn3hzXcAAclmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxxn3hzXcAAclmR.jpg",
+					"url": "https://t.co/ePj6fdTVuT",
+					"display_url": "pic.twitter.com/ePj6fdTVuT",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1088859415279734785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1121,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1121,
+							"h": 496,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 301,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088859413581099000,
+					"id_str": "1088859413581099008",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxxn3hzXcAAclmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxxn3hzXcAAclmR.jpg",
+					"url": "https://t.co/ePj6fdTVuT",
+					"display_url": "pic.twitter.com/ePj6fdTVuT",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1088859415279734785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1121,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1121,
+							"h": 496,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 301,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 273,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The notes of the 1919 @NASPAtweets conference at @UWMadison were taken by Professor Louis A. Strauss of @UMich. This section describes Scott Goodnight's driving suggests that Strauss had a keen sense of humor. You can read the full notes here: https://t.co/UX1WXKUQcI #NASPA100 https://t.co/ePj6fdTVuT"
+	},
+	{
+		"created_at": "Fri Jan 25 14:10:23 +0000 2019",
+		"id": 1088801259631579100,
+		"id_str": "1088801259631579136",
+		"full_text": "On January 25, 1919, the Conference of Deans and Advisors of Men contined at @UWMadison hosted by Scott Goodnight. Today we know this group as NASPA. You can read the minutes of the meeting here: https://t.co/9p8dn5ghYW @NASPAtweets https://t.co/HjWMr26Utq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UWMadison",
+					"name": "UW-Madison",
+					"id": 15763818,
+					"id_str": "15763818",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						220,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9p8dn5ghYW",
+					"expanded_url": "http://ow.ly/d/8bn8",
+					"display_url": "ow.ly/d/8bn8",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088801257802879000,
+					"id_str": "1088801257802878976",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxwy-apW0AAqy3o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxwy-apW0AAqy3o.jpg",
+					"url": "https://t.co/HjWMr26Utq",
+					"display_url": "pic.twitter.com/HjWMr26Utq",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1088801259631579136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088801257802879000,
+					"id_str": "1088801257802878976",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxwy-apW0AAqy3o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxwy-apW0AAqy3o.jpg",
+					"url": "https://t.co/HjWMr26Utq",
+					"display_url": "pic.twitter.com/HjWMr26Utq",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1088801259631579136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 273,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On January 25, 1919, the Conference of Deans and Advisors of Men contined at @UWMadison hosted by Scott Goodnight. Today we know this group as NASPA. You can read the minutes of the meeting here: https://t.co/9p8dn5ghYW @NASPAtweets https://t.co/HjWMr26Utq"
+	},
+	{
 		"created_at": "Thu Jan 24 23:33:28 +0000 2019",
 		"id": 1088580576720891900,
 		"id_str": "1088580576720891904",
