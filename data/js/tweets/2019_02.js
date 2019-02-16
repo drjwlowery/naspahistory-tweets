@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 19:57:16 +0000 2019",
+		"id": 1096498698836721700,
+		"id_str": "1096498698836721665",
+		"full_text": "The first woman we have clear records of attending the @NASPAtweets as a member is Dr. Margaret L. Johnson. She was the dean of students at Richmond Professional Institute (now @VCU). #NASPA100 https://t.co/ImoULTr7Nc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						55,
+						67
+					]
+				},
+				{
+					"screen_name": "VCU",
+					"name": "VCU",
+					"id": 156714051,
+					"id_str": "156714051",
+					"indices": [
+						177,
+						181
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096498694428545000,
+					"id_str": "1096498694428545025",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeLwMoX0AEFWyM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeLwMoX0AEFWyM.jpg",
+					"url": "https://t.co/ImoULTr7Nc",
+					"display_url": "pic.twitter.com/ImoULTr7Nc",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1096498698836721665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 903,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 903,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096498694428545000,
+					"id_str": "1096498694428545025",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeLwMoX0AEFWyM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeLwMoX0AEFWyM.jpg",
+					"url": "https://t.co/ImoULTr7Nc",
+					"display_url": "pic.twitter.com/ImoULTr7Nc",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1096498698836721665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 903,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 903,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The first woman we have clear records of attending the @NASPAtweets as a member is Dr. Margaret L. Johnson. She was the dean of students at Richmond Professional Institute (now @VCU). #NASPA100 https://t.co/ImoULTr7Nc"
+	},
+	{
 		"created_at": "Thu Feb 14 19:20:14 +0000 2019",
 		"id": 1096126992670429200,
 		"id_str": "1096126992670429184",
