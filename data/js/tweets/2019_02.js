@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 18:20:15 +0000 2019",
+		"id": 1098286222936629200,
+		"id_str": "1098286222936629249",
+		"full_text": "The 1920 @NASPAtweets conference began today at @Illinois_Alma. The meeting was hosted by Dean Thomas Arkle Clark. Though still an undergraduate student, Fred Turner was there for parts of the meeting. Turner spent his entire career at Illinois and active in NASPA. #NASPA100 https://t.co/0ramN30pRn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						266,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "Illinois_Alma",
+					"name": "University of Illinois",
+					"id": 18165866,
+					"id_str": "18165866",
+					"indices": [
+						48,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098286221162369000,
+					"id_str": "1098286221162369027",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3lf8oW0AMdmup.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3lf8oW0AMdmup.jpg",
+					"url": "https://t.co/0ramN30pRn",
+					"display_url": "pic.twitter.com/0ramN30pRn",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1098286222936629249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 441,
+							"h": 537,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 441,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 441,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098286221162369000,
+					"id_str": "1098286221162369027",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3lf8oW0AMdmup.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3lf8oW0AMdmup.jpg",
+					"url": "https://t.co/0ramN30pRn",
+					"display_url": "pic.twitter.com/0ramN30pRn",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1098286222936629249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 441,
+							"h": 537,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 441,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 441,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 1920 @NASPAtweets conference began today at @Illinois_Alma. The meeting was hosted by Dean Thomas Arkle Clark. Though still an undergraduate student, Fred Turner was there for parts of the meeting. Turner spent his entire career at Illinois and active in NASPA. #NASPA100 https://t.co/0ramN30pRn"
+	},
+	{
+		"created_at": "Wed Feb 20 15:30:51 +0000 2019",
+		"id": 1098243592122966000,
+		"id_str": "1098243592122966018",
+		"full_text": "The 1920 @NASPAtweets conference began today at @Illinois_Alma. The meeting was hosted by Dean Thomas Arkle Clark. The 9 attendees met in Clark's office and discussed a variety of topics including: fraternities, housing, student self-government, &amp; student activities. #NASPA100 https://t.co/I0r00bJ8ji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						272,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "Illinois_Alma",
+					"name": "University of Illinois",
+					"id": 18165866,
+					"id_str": "18165866",
+					"indices": [
+						48,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098243590495658000,
+					"id_str": "1098243590495657984",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz2-uhBX4AAYCdB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz2-uhBX4AAYCdB.jpg",
+					"url": "https://t.co/I0r00bJ8ji",
+					"display_url": "pic.twitter.com/I0r00bJ8ji",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1098243592122966018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098243590495658000,
+					"id_str": "1098243590495657984",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz2-uhBX4AAYCdB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz2-uhBX4AAYCdB.jpg",
+					"url": "https://t.co/I0r00bJ8ji",
+					"display_url": "pic.twitter.com/I0r00bJ8ji",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1098243592122966018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/ytol9MXOYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytol9MXOYA",
+							"expanded_url": "http://naspa.edu",
+							"display_url": "naspa.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 1920 @NASPAtweets conference began today at @Illinois_Alma. The meeting was hosted by Dean Thomas Arkle Clark. The 9 attendees met in Clark's office and discussed a variety of topics including: fraternities, housing, student self-government, &amp; student activities. #NASPA100 https://t.co/I0r00bJ8ji"
+	},
+	{
 		"created_at": "Tue Feb 19 19:20:15 +0000 2019",
 		"id": 1097938933911031800,
 		"id_str": "1097938933911031812",
