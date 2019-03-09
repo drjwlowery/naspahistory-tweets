@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 18:05:19 +0000 2019",
+		"id": 1104080669318266900,
+		"id_str": "1104080669318266886",
+		"full_text": "At the 1932 LA conference, D. H. Gardner (@NASPApres from 1937 to 1939) presented results of 1st National Survey of Functions of Student Administration for Men. Read Gardner’s introduction of the survey here: https://t.co/aCrq3J8e5m #NASPA100  #SAChat #NASPA19 https://t.co/dniutRbVVA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"text": "SAChat",
+					"indices": [
+						244,
+						251
+					]
+				},
+				{
+					"text": "NASPA19",
+					"indices": [
+						252,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPApres",
+					"name": "Kevin Kruger",
+					"id": 95735176,
+					"id_str": "95735176",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aCrq3J8e5m",
+					"expanded_url": "http://goo.gl/tcKSmW",
+					"display_url": "goo.gl/tcKSmW",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1104080667120422900,
+					"id_str": "1104080667120422913",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D1J7hF8W0AEhIUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1J7hF8W0AEhIUM.jpg",
+					"url": "https://t.co/dniutRbVVA",
+					"display_url": "pic.twitter.com/dniutRbVVA",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1104080669318266886/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104080667120422900,
+					"id_str": "1104080667120422913",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D1J7hF8W0AEhIUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1J7hF8W0AEhIUM.jpg",
+					"url": "https://t.co/dniutRbVVA",
+					"display_url": "pic.twitter.com/dniutRbVVA",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1104080669318266886/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the 1932 LA conference, D. H. Gardner (@NASPApres from 1937 to 1939) presented results of 1st National Survey of Functions of Student Administration for Men. Read Gardner’s introduction of the survey here: https://t.co/aCrq3J8e5m #NASPA100  #SAChat #NASPA19 https://t.co/dniutRbVVA"
+	},
+	{
 		"created_at": "Thu Mar 07 21:05:11 +0000 2019",
 		"id": 1103763548944166900,
 		"id_str": "1103763548944166912",
