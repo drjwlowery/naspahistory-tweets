@@ -1,6 +1,792 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 00:57:19 +0000 2019",
+		"id": 1105633907779616800,
+		"id_str": "1105633907779616768",
+		"full_text": "Incoming @NASPAtweets president, Denzil Suite, shares a quote from Rumi. \"Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.\" #NASPA19 https://t.co/s7LDg2RUI1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA19",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105633905158164500,
+					"id_str": "1105633905158164481",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D1gALciUkAEfM_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1gALciUkAEfM_s.jpg",
+					"url": "https://t.co/s7LDg2RUI1",
+					"display_url": "pic.twitter.com/s7LDg2RUI1",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105633907779616768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105633905158164500,
+					"id_str": "1105633905158164481",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D1gALciUkAEfM_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1gALciUkAEfM_s.jpg",
+					"url": "https://t.co/s7LDg2RUI1",
+					"display_url": "pic.twitter.com/s7LDg2RUI1",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105633907779616768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Incoming @NASPAtweets president, Denzil Suite, shares a quote from Rumi. \"Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.\" #NASPA19 https://t.co/s7LDg2RUI1"
+	},
+	{
+		"created_at": "Wed Mar 13 00:52:35 +0000 2019",
+		"id": 1105632712604303400,
+		"id_str": "1105632712604303360",
+		"full_text": "In 1985, former @NASPAtweets president Chet Peters (photo) began a tradition which continues today of hand-carved personalized gavels for each president/board chair. Other carvers have included Barbara Mann and the current carver, Charles Petranek. #NASPA100 #NASPA19 https://t.co/EwXWxTIhG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						249,
+						258
+					]
+				},
+				{
+					"text": "NASPA19",
+					"indices": [
+						259,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105632698171703300,
+					"id_str": "1105632698171703297",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f_FMKUwAEbnCK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f_FMKUwAEbnCK.jpg",
+					"url": "https://t.co/EwXWxTIhG3",
+					"display_url": "pic.twitter.com/EwXWxTIhG3",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105632712604303360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105632698171703300,
+					"id_str": "1105632698171703297",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f_FMKUwAEbnCK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f_FMKUwAEbnCK.jpg",
+					"url": "https://t.co/EwXWxTIhG3",
+					"display_url": "pic.twitter.com/EwXWxTIhG3",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105632712604303360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 1985, former @NASPAtweets president Chet Peters (photo) began a tradition which continues today of hand-carved personalized gavels for each president/board chair. Other carvers have included Barbara Mann and the current carver, Charles Petranek. #NASPA100 #NASPA19 https://t.co/EwXWxTIhG3"
+	},
+	{
+		"created_at": "Wed Mar 13 00:44:01 +0000 2019",
+		"id": 1105630559391240200,
+		"id_str": "1105630559391240192",
+		"full_text": "At the @NASPAtweets Annual Business Meeting, NASPA passes a memorial resolution honoring Marybeth J. Drechsler Sharp who passed away in June. She served the student affairs profession as Executive Director of CAS.  #NASPA19 https://t.co/LlMQB7JoWZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA19",
+					"indices": [
+						215,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105630556761382900,
+					"id_str": "1105630556761382912",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f9IiyUYAAOO2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f9IiyUYAAOO2U.jpg",
+					"url": "https://t.co/LlMQB7JoWZ",
+					"display_url": "pic.twitter.com/LlMQB7JoWZ",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105630559391240192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 468,
+							"h": 586,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 468,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 468,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105630556761382900,
+					"id_str": "1105630556761382912",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f9IiyUYAAOO2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f9IiyUYAAOO2U.jpg",
+					"url": "https://t.co/LlMQB7JoWZ",
+					"display_url": "pic.twitter.com/LlMQB7JoWZ",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105630559391240192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 468,
+							"h": 586,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 468,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 468,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the @NASPAtweets Annual Business Meeting, NASPA passes a memorial resolution honoring Marybeth J. Drechsler Sharp who passed away in June. She served the student affairs profession as Executive Director of CAS.  #NASPA19 https://t.co/LlMQB7JoWZ"
+	},
+	{
+		"created_at": "Wed Mar 13 00:39:24 +0000 2019",
+		"id": 1105629397065699300,
+		"id_str": "1105629397065699328",
+		"full_text": "At the @NASPAtweets Annual Business Meeting, NASPA passes a memorial resolution honoring Margaret \"Peggy\" Barr who passed away in June. She served NASPA as president of the NASPA Foundation. #NASPA100 #NASPA19 https://t.co/eyjdljroZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						191,
+						200
+					]
+				},
+				{
+					"text": "NASPA19",
+					"indices": [
+						201,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105629392342999000,
+					"id_str": "1105629392342999040",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f8Ew_V4AAK7NO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f8Ew_V4AAK7NO.jpg",
+					"url": "https://t.co/eyjdljroZ6",
+					"display_url": "pic.twitter.com/eyjdljroZ6",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105629397065699328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 675,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105629392342999000,
+					"id_str": "1105629392342999040",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f8Ew_V4AAK7NO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f8Ew_V4AAK7NO.jpg",
+					"url": "https://t.co/eyjdljroZ6",
+					"display_url": "pic.twitter.com/eyjdljroZ6",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105629397065699328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 675,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the @NASPAtweets Annual Business Meeting, NASPA passes a memorial resolution honoring Margaret \"Peggy\" Barr who passed away in June. She served NASPA as president of the NASPA Foundation. #NASPA100 #NASPA19 https://t.co/eyjdljroZ6"
+	},
+	{
 		"created_at": "Mon Mar 11 20:53:56 +0000 2019",
 		"id": 1105210268404068400,
 		"id_str": "1105210268404068357",
