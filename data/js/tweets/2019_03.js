@@ -1,6 +1,1627 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 17:58:34 +0000 2019",
+		"id": 1105890910330445800,
+		"id_str": "1105890910330445824",
+		"full_text": "Shaun Harper offers a powerful Closing Session to #NASPA19 and challenges us to foster care for people of color on campus, including students and staff. https://t.co/BtdQ4Sxcy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA19",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105890888620826600,
+					"id_str": "1105890888620826624",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jp52iV4AAtn_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jp52iV4AAtn_T.jpg",
+					"url": "https://t.co/BtdQ4Sxcy7",
+					"display_url": "pic.twitter.com/BtdQ4Sxcy7",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105890910330445824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105890888620826600,
+					"id_str": "1105890888620826624",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jp52iV4AAtn_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jp52iV4AAtn_T.jpg",
+					"url": "https://t.co/BtdQ4Sxcy7",
+					"display_url": "pic.twitter.com/BtdQ4Sxcy7",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105890910330445824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shaun Harper offers a powerful Closing Session to #NASPA19 and challenges us to foster care for people of color on campus, including students and staff. https://t.co/BtdQ4Sxcy7"
+	},
+	{
+		"created_at": "Wed Mar 13 17:13:58 +0000 2019",
+		"id": 1105879688075866100,
+		"id_str": "1105879688075866117",
+		"full_text": "John E. Hocutt at the University of Delaware was the NASPA President for 1955-56. He also chaired the @NASPAtweets conference for 5 years. He received the Bronze Star during  World War II. He received NASPA’s Outstanding Service Award in 1972. #NASPA100 https://t.co/HsC4Mf9kPI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						244,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105879677560774700,
+					"id_str": "1105879677560774656",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jftSFVYAAw74f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jftSFVYAAw74f.jpg",
+					"url": "https://t.co/HsC4Mf9kPI",
+					"display_url": "pic.twitter.com/HsC4Mf9kPI",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105879688075866117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105879677560774700,
+					"id_str": "1105879677560774656",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jftSFVYAAw74f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jftSFVYAAw74f.jpg",
+					"url": "https://t.co/HsC4Mf9kPI",
+					"display_url": "pic.twitter.com/HsC4Mf9kPI",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105879688075866117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "John E. Hocutt at the University of Delaware was the NASPA President for 1955-56. He also chaired the @NASPAtweets conference for 5 years. He received the Bronze Star during  World War II. He received NASPA’s Outstanding Service Award in 1972. #NASPA100 https://t.co/HsC4Mf9kPI"
+	},
+	{
+		"created_at": "Wed Mar 13 17:09:34 +0000 2019",
+		"id": 1105878579307372500,
+		"id_str": "1105878579307372545",
+		"full_text": "Thomas Arkle Clark was @NASPAtweets 2nd president &amp; hosted the 2nd conference at @Illinois_Alma. You can read his book, Discipline and the Derelict: Being a Series of Essays on Some of Those who Tread the Green Carpet (1922) on Google Books.  https://t.co/1HGamIE9n9 #NASPA100 https://t.co/rvA7wU41Xq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						271,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "Illinois_Alma",
+					"name": "University of Illinois",
+					"id": 18165866,
+					"id_str": "18165866",
+					"indices": [
+						85,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1HGamIE9n9",
+					"expanded_url": "http://ow.ly/5N9Pv",
+					"display_url": "ow.ly/5N9Pv",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105878572940423200,
+					"id_str": "1105878572940423170",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jes_DUcAIBvu-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jes_DUcAIBvu-.jpg",
+					"url": "https://t.co/rvA7wU41Xq",
+					"display_url": "pic.twitter.com/rvA7wU41Xq",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105878579307372545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 808,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105878572940423200,
+					"id_str": "1105878572940423170",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jes_DUcAIBvu-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jes_DUcAIBvu-.jpg",
+					"url": "https://t.co/rvA7wU41Xq",
+					"display_url": "pic.twitter.com/rvA7wU41Xq",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105878579307372545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 808,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thomas Arkle Clark was @NASPAtweets 2nd president &amp; hosted the 2nd conference at @Illinois_Alma. You can read his book, Discipline and the Derelict: Being a Series of Essays on Some of Those who Tread the Green Carpet (1922) on Google Books.  https://t.co/1HGamIE9n9 #NASPA100 https://t.co/rvA7wU41Xq"
+	},
+	{
+		"created_at": "Wed Mar 13 17:05:28 +0000 2019",
+		"id": 1105877549513502700,
+		"id_str": "1105877549513502720",
+		"full_text": "On January 24, 1919, the Conference of Deans and Advisors of Men began at @UWMadison hosted by Scott Goodnight. Today we know this group as NASPA and recognize Goodnight at the 1st president. You can read the minutes of the meeting here: https://t.co/9p8dn4YGAm @NASPAtweets",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UWMadison",
+					"name": "UW-Madison",
+					"id": 15763818,
+					"id_str": "15763818",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						262,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9p8dn4YGAm",
+					"expanded_url": "http://ow.ly/d/8bn8",
+					"display_url": "ow.ly/d/8bn8",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1095861467478413300,
+		"in_reply_to_status_id_str": "1095861467478413313",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On January 24, 1919, the Conference of Deans and Advisors of Men began at @UWMadison hosted by Scott Goodnight. Today we know this group as NASPA and recognize Goodnight at the 1st president. You can read the minutes of the meeting here: https://t.co/9p8dn4YGAm @NASPAtweets"
+	},
+	{
+		"created_at": "Wed Mar 13 16:11:33 +0000 2019",
+		"id": 1105863979711094800,
+		"id_str": "1105863979711094784",
+		"full_text": "Few can claim a longer association with @NASPAtweets than Fred Turner. He was there for the 1920 conference as a student worker in Thomas Arkle Clark's office at @Illinois_Alma. He served NASPA as Secretary/Treasurer (1938-58), President (1958-59), &amp; Historian for many years. https://t.co/1OybYRkNbw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "Illinois_Alma",
+					"name": "University of Illinois",
+					"id": 18165866,
+					"id_str": "18165866",
+					"indices": [
+						162,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1OybYRkNbw",
+					"expanded_url": "https://twitter.com/naspatweets/status/1105560569631801345",
+					"display_url": "twitter.com/naspatweets/st…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105560569631801300,
+		"quoted_status_id_str": "1105560569631801345",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1OybYRkNbw",
+			"expanded": "https://twitter.com/naspatweets/status/1105560569631801345",
+			"display": "twitter.com/naspatweets/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 12 20:05:54 +0000 2019",
+			"id": 1105560569631801300,
+			"id_str": "1105560569631801345",
+			"full_text": "The 2019 Fred Turner Award for Outstanding Service to NASPA is presented to Henry Gee, Vice President for Student Services, Rio Hondo College. Congratulations, @VPGee! https://t.co/nTsUP32pqz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VPGee",
+						"name": "VPGee",
+						"id": 2185047306,
+						"id_str": "2185047306",
+						"indices": [
+							160,
+							166
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nTsUP32pqz",
+						"expanded_url": "http://bit.ly/NASPA19_Gee",
+						"display_url": "bit.ly/NASPA19_Gee",
+						"indices": [
+							168,
+							191
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1105558553475993600,
+			"in_reply_to_status_id_str": "1105558553475993600",
+			"in_reply_to_user_id": 93729105,
+			"in_reply_to_user_id_str": "93729105",
+			"in_reply_to_screen_name": "NASPAtweets",
+			"user": {
+				"id": 93729105,
+				"id_str": "93729105",
+				"name": "NASPA",
+				"screen_name": "NASPAtweets",
+				"location": "Washington, DC",
+				"description": "We empower student affairs practitioners working in higher ed to serve the changing academic, emotional, and social needs of today's diverse student population.",
+				"url": "https://t.co/zca501EaKL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zca501EaKL",
+								"expanded_url": "http://www.naspa.org",
+								"display_url": "naspa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31777,
+				"friends_count": 318,
+				"listed_count": 862,
+				"created_at": "Mon Nov 30 22:49:50 +0000 2009",
+				"favourites_count": 8247,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14174,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1104601235179528192/efRLbTQb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104601235179528192/efRLbTQb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93729105/1544716574",
+				"profile_link_color": "006666",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Few can claim a longer association with @NASPAtweets than Fred Turner. He was there for the 1920 conference as a student worker in Thomas Arkle Clark's office at @Illinois_Alma. He served NASPA as Secretary/Treasurer (1938-58), President (1958-59), &amp; Historian for many years. https://t.co/1OybYRkNbw"
+	},
+	{
+		"created_at": "Wed Mar 13 16:08:43 +0000 2019",
+		"id": 1105564282073169900,
+		"id_str": "1105863267782582274",
+		"full_text": "The winner of the 2019 Scott Goodnight Award for Outstanding Performance as a Dean is Berenecea Johnson Eanes, Vice President for Student Affairs, California State University, Fullerton. Congratulations, @VP_BJEanes! https://t.co/858eNvJcNb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VP_BJEanes",
+					"name": "Dr. Berenecea Eanes",
+					"id": 863344063,
+					"id_str": "863344063",
+					"indices": [
+						204,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/858eNvJcNb",
+					"expanded_url": "http://bit.ly/NASPA19_JohnsonEanes",
+					"display_url": "bit.ly/NASPA19_Johnso…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1105563098759356400,
+		"in_reply_to_status_id_str": "1105563098759356417",
+		"in_reply_to_user_id": 93729105,
+		"in_reply_to_user_id_str": "93729105",
+		"in_reply_to_screen_name": "NASPAtweets",
+		"user": {
+			"id": 93729105,
+			"id_str": "93729105",
+			"name": "NASPA",
+			"screen_name": "NASPAtweets",
+			"location": "Washington, DC",
+			"description": "We empower student affairs practitioners working in higher ed to serve the changing academic, emotional, and social needs of today's diverse student population.",
+			"url": "https://t.co/zca501EaKL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zca501EaKL",
+							"expanded_url": "http://www.naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31777,
+			"friends_count": 318,
+			"listed_count": 862,
+			"created_at": "Mon Nov 30 22:49:50 +0000 2009",
+			"favourites_count": 8247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104601235179528192/efRLbTQb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104601235179528192/efRLbTQb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93729105/1544716574",
+			"profile_link_color": "006666",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The winner of the 2019 Scott Goodnight Award for Outstanding Performance as a Dean is Berenecea Johnson Eanes, Vice President for Student Affairs, California State University, Fullerton. Congratulations, @VP_BJEanes! https://t.co/858eNvJcNb"
+	},
+	{
+		"created_at": "Wed Mar 13 16:08:41 +0000 2019",
+		"id": 1105563098759356400,
+		"id_str": "1105863257514860544",
+		"full_text": "NASPA reverently honors and remembers Alex Gonzalez with a posthumous recognition of his work with the 2019 Fred Turner Award for Outstanding Service to NASPA. Alex served as University Registrar, UNM and was a founder of the Latin/x/a/o KC @tweetinglavoz. https://t.co/FeXwynmJuO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tweetinglavoz",
+					"name": "NASPA Latinx/o/a KC",
+					"id": 109363223,
+					"id_str": "109363223",
+					"indices": [
+						241,
+						255
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FeXwynmJuO",
+					"expanded_url": "http://bit.ly/NASPA19_Gonzalez",
+					"display_url": "bit.ly/NASPA19_Gonzal…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1105560569631801300,
+		"in_reply_to_status_id_str": "1105560569631801345",
+		"in_reply_to_user_id": 93729105,
+		"in_reply_to_user_id_str": "93729105",
+		"in_reply_to_screen_name": "NASPAtweets",
+		"user": {
+			"id": 93729105,
+			"id_str": "93729105",
+			"name": "NASPA",
+			"screen_name": "NASPAtweets",
+			"location": "Washington, DC",
+			"description": "We empower student affairs practitioners working in higher ed to serve the changing academic, emotional, and social needs of today's diverse student population.",
+			"url": "https://t.co/zca501EaKL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zca501EaKL",
+							"expanded_url": "http://www.naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31777,
+			"friends_count": 318,
+			"listed_count": 862,
+			"created_at": "Mon Nov 30 22:49:50 +0000 2009",
+			"favourites_count": 8247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104601235179528192/efRLbTQb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104601235179528192/efRLbTQb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93729105/1544716574",
+			"profile_link_color": "006666",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NASPA reverently honors and remembers Alex Gonzalez with a posthumous recognition of his work with the 2019 Fred Turner Award for Outstanding Service to NASPA. Alex served as University Registrar, UNM and was a founder of the Latin/x/a/o KC @tweetinglavoz. https://t.co/FeXwynmJuO"
+	},
+	{
+		"created_at": "Wed Mar 13 15:31:20 +0000 2019",
+		"id": 1105853860558471200,
+		"id_str": "1105853860558471168",
+		"full_text": "For the 1920 @NASPAtweets conference, several deans were asked to speak on specific topics. Dean Thomas Arkle Clark presented on fraternity problems, and Dean Stanley Coulter (below) of @Purdue presented on student standards. Read the meeting notes here: https://t.co/oDotgX5Oro https://t.co/p7rCmzPEcN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "Purdue",
+					"name": "Purdue Boilermakers",
+					"id": 227516842,
+					"id_str": "227516842",
+					"indices": [
+						186,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oDotgX5Oro",
+					"expanded_url": "http://ow.ly/d/8bG7",
+					"display_url": "ow.ly/d/8bG7",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105853851012198400,
+					"id_str": "1105853851012198400",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jIN-sUcAApDyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jIN-sUcAApDyN.jpg",
+					"url": "https://t.co/p7rCmzPEcN",
+					"display_url": "pic.twitter.com/p7rCmzPEcN",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105853860558471168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1227,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105853851012198400,
+					"id_str": "1105853851012198400",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jIN-sUcAApDyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jIN-sUcAApDyN.jpg",
+					"url": "https://t.co/p7rCmzPEcN",
+					"display_url": "pic.twitter.com/p7rCmzPEcN",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105853860558471168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1227,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For the 1920 @NASPAtweets conference, several deans were asked to speak on specific topics. Dean Thomas Arkle Clark presented on fraternity problems, and Dean Stanley Coulter (below) of @Purdue presented on student standards. Read the meeting notes here: https://t.co/oDotgX5Oro https://t.co/p7rCmzPEcN"
+	},
+	{
+		"created_at": "Wed Mar 13 15:29:21 +0000 2019",
+		"id": 1105853360492572700,
+		"id_str": "1105853360492572672",
+		"full_text": "At the 1932 LA conference, D. H. Gardner (@NASPApres from 1937 to 1939) presented results of 1st National Survey of Functions of Student Administration for Men. Read Gardner’s introduction of the survey here: https://t.co/aCrq3IQCGM #NASPA100  #SAChat #NASPA19 https://t.co/nLbpozWwTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA100",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"text": "SAChat",
+					"indices": [
+						244,
+						251
+					]
+				},
+				{
+					"text": "NASPA19",
+					"indices": [
+						252,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPApres",
+					"name": "Kevin Kruger",
+					"id": 95735176,
+					"id_str": "95735176",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aCrq3IQCGM",
+					"expanded_url": "http://goo.gl/tcKSmW",
+					"display_url": "goo.gl/tcKSmW",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105853343136546800,
+					"id_str": "1105853343136546817",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jHwatVAAE_Mn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jHwatVAAE_Mn_.jpg",
+					"url": "https://t.co/nLbpozWwTS",
+					"display_url": "pic.twitter.com/nLbpozWwTS",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105853360492572672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 625,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105853343136546800,
+					"id_str": "1105853343136546817",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jHwatVAAE_Mn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jHwatVAAE_Mn_.jpg",
+					"url": "https://t.co/nLbpozWwTS",
+					"display_url": "pic.twitter.com/nLbpozWwTS",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1105853360492572672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 625,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the 1932 LA conference, D. H. Gardner (@NASPApres from 1937 to 1939) presented results of 1st National Survey of Functions of Student Administration for Men. Read Gardner’s introduction of the survey here: https://t.co/aCrq3IQCGM #NASPA100  #SAChat #NASPA19 https://t.co/nLbpozWwTS"
+	},
+	{
 		"created_at": "Wed Mar 13 00:57:19 +0000 2019",
 		"id": 1105633907779616800,
 		"id_str": "1105633907779616768",
