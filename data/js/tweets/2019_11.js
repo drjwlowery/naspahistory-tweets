@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 18:20:00 +0000 2019",
+		"id": 1192507004431958000,
+		"id_str": "1192507004431958016",
+		"full_text": "In 1936, W. H. Cowley and Donfred Gardner wrote George F. Zook at @ACEducation urging him to call together representatives of student personnel groups &amp; others to provide guidance for this new student personnel work. You can read the 1937 SPPV here: \nhttps://t.co/hqbUMvHvfn https://t.co/7gZgKpfBtt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ACEducation",
+					"name": "ACE",
+					"id": 119235720,
+					"id_str": "119235720",
+					"indices": [
+						66,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hqbUMvHvfn",
+					"expanded_url": "https://babel.hathitrust.org/cgi/pt?id=uva.x004915715&view=1up&seq=5",
+					"display_url": "babel.hathitrust.org/cgi/pt?id=uva.…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1190433277322158000,
+					"id_str": "1190433277322158080",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EIVEwi-XYAAIIrt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIVEwi-XYAAIIrt.jpg",
+					"url": "https://t.co/7gZgKpfBtt",
+					"display_url": "pic.twitter.com/7gZgKpfBtt",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1192507004431958016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 389,
+							"h": 195,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 389,
+							"h": 195,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 195,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190433277322158000,
+					"id_str": "1190433277322158080",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EIVEwi-XYAAIIrt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIVEwi-XYAAIIrt.jpg",
+					"url": "https://t.co/7gZgKpfBtt",
+					"display_url": "pic.twitter.com/7gZgKpfBtt",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1192507004431958016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 389,
+							"h": 195,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 389,
+							"h": 195,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 195,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 1936, W. H. Cowley and Donfred Gardner wrote George F. Zook at @ACEducation urging him to call together representatives of student personnel groups &amp; others to provide guidance for this new student personnel work. You can read the 1937 SPPV here: \nhttps://t.co/hqbUMvHvfn https://t.co/7gZgKpfBtt"
+	},
+	{
 		"created_at": "Wed Nov 06 18:10:00 +0000 2019",
 		"id": 1192142099950395400,
 		"id_str": "1192142099950395392",
