@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 11 17:12:00 +0000 2019",
+		"id": 1193939443255656400,
+		"id_str": "1193939443255656458",
+		"full_text": "Keith M. Miser passed away two weeks ago on Monday, Oct. 28, 2019. Tomorrow (Tuesday, Nov. 12), A Celebration of Life will be held at 1:30 – 3:30 p.m. in the Indiana University Memorial Union, Presidents’ Room, University Club. https://t.co/LxmGriJTqv https://t.co/G2joOgxdZT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LxmGriJTqv",
+					"expanded_url": "https://www.dignitymemorial.com/obituaries/bloomington-in/keith-miser-8908232?utm_source=facebook&utm_medium=referral&utm_campaign=share_obit&utm_content=obituary&fbclid=IwAR1t6pYW0t9Xe1VhDpYwJa4euA3mg6ka4AMokHTH_HKF8QhwBj6j3OIvC5A",
+					"display_url": "dignitymemorial.com/obituaries/blo…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1192470074055184400,
+					"id_str": "1192470074055184385",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EIyBNuFX0AEKo7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIyBNuFX0AEKo7Z.jpg",
+					"url": "https://t.co/G2joOgxdZT",
+					"display_url": "pic.twitter.com/G2joOgxdZT",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1193939443255656458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 36,
+									"y": 56,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 36,
+									"y": 56,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 36,
+									"y": 56,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 36,
+									"y": 56,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192470074055184400,
+					"id_str": "1192470074055184385",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EIyBNuFX0AEKo7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIyBNuFX0AEKo7Z.jpg",
+					"url": "https://t.co/G2joOgxdZT",
+					"display_url": "pic.twitter.com/G2joOgxdZT",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1193939443255656458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 36,
+									"y": 56,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 36,
+									"y": 56,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 36,
+									"y": 56,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 36,
+									"y": 56,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Keith M. Miser passed away two weeks ago on Monday, Oct. 28, 2019. Tomorrow (Tuesday, Nov. 12), A Celebration of Life will be held at 1:30 – 3:30 p.m. in the Indiana University Memorial Union, Presidents’ Room, University Club. https://t.co/LxmGriJTqv https://t.co/G2joOgxdZT"
+	},
+	{
 		"created_at": "Fri Nov 08 17:25:13 +0000 2019",
 		"id": 1192855606819991600,
 		"id_str": "1192855606819991552",
