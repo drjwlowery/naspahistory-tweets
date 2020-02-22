@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 22:19:00 +0000 2020",
+		"id": 1230980264500826000,
+		"id_str": "1230980264500826118",
+		"full_text": "Dr. Bob E. Leach was the first African American Administrator at @floridastate in 1978 when he began as Vice President for Student Affairs. This digital exihibit explores his role at FSU: A UNIVERSITY IN TRANSITION: THE LONG PATH TO INTEGRATION.  \nhttps://t.co/jkdqnoEy7f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "floridastate",
+					"name": "Florida State University",
+					"id": 154533838,
+					"id_str": "154533838",
+					"indices": [
+						65,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jkdqnoEy7f",
+					"expanded_url": "https://universityintransition.omeka.net/exhibits/show/a-university-in-transition/integration-commemoration/bod-e-leach",
+					"display_url": "universityintransition.omeka.net/exhibits/show/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1224751189562183700,
+		"in_reply_to_status_id_str": "1224751189562183680",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dr. Bob E. Leach was the first African American Administrator at @floridastate in 1978 when he began as Vice President for Student Affairs. This digital exihibit explores his role at FSU: A UNIVERSITY IN TRANSITION: THE LONG PATH TO INTEGRATION.  \nhttps://t.co/jkdqnoEy7f"
+	},
+	{
+		"created_at": "Fri Feb 21 20:10:00 +0000 2020",
+		"id": 1230947800705380400,
+		"id_str": "1230947800705380352",
+		"full_text": "This award honors Dr. Leach, the first person of color to serve as @NASPAtweets president and who was also the 1st African American Administrator at @floridastate. His life &amp; career was dedicated to bringing people of different backgrounds together &amp; promoting equality for all. https://t.co/fuo1FXO8aP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						67,
+						79
+					]
+				},
+				{
+					"screen_name": "floridastate",
+					"name": "Florida State University",
+					"id": 154533838,
+					"id_str": "154533838",
+					"indices": [
+						149,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224751838475497500,
+					"id_str": "1224751838475497472",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8xTt5WsAAOx_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8xTt5WsAAOx_L.jpg",
+					"url": "https://t.co/fuo1FXO8aP",
+					"display_url": "pic.twitter.com/fuo1FXO8aP",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1230947800705380352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 882,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 882,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224751838475497500,
+					"id_str": "1224751838475497472",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8xTt5WsAAOx_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8xTt5WsAAOx_L.jpg",
+					"url": "https://t.co/fuo1FXO8aP",
+					"display_url": "pic.twitter.com/fuo1FXO8aP",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1230947800705380352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 882,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 882,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1224751189562183700,
+		"in_reply_to_status_id_str": "1224751189562183680",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This award honors Dr. Leach, the first person of color to serve as @NASPAtweets president and who was also the 1st African American Administrator at @floridastate. His life &amp; career was dedicated to bringing people of different backgrounds together &amp; promoting equality for all. https://t.co/fuo1FXO8aP"
+	},
+	{
+		"created_at": "Fri Feb 21 19:08:00 +0000 2020",
+		"id": 1230932198129328000,
+		"id_str": "1230932198129328128",
+		"full_text": "Bobby E. Leach Equity, Diversity, and Inclusion Award honors a senior student affairs professional or faculty member who has demonstrated a deep commitment to advancing diversity and inclusion throughout their administrative or academic tenure. https://t.co/LqVSLuZ1V5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224751375055294500,
+					"id_str": "1224751375055294465",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8w4vhXkAEAZj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8w4vhXkAEAZj_.jpg",
+					"url": "https://t.co/LqVSLuZ1V5",
+					"display_url": "pic.twitter.com/LqVSLuZ1V5",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1230932198129328128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 278,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 278,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 278,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224751375055294500,
+					"id_str": "1224751375055294465",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8w4vhXkAEAZj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8w4vhXkAEAZj_.jpg",
+					"url": "https://t.co/LqVSLuZ1V5",
+					"display_url": "pic.twitter.com/LqVSLuZ1V5",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1230932198129328128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 278,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 278,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 278,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1224751189562183700,
+		"in_reply_to_status_id_str": "1224751189562183680",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bobby E. Leach Equity, Diversity, and Inclusion Award honors a senior student affairs professional or faculty member who has demonstrated a deep commitment to advancing diversity and inclusion throughout their administrative or academic tenure. https://t.co/LqVSLuZ1V5"
+	},
+	{
 		"created_at": "Thu Feb 20 21:11:00 +0000 2020",
 		"id": 1230600763862241300,
 		"id_str": "1230600763862241280",
