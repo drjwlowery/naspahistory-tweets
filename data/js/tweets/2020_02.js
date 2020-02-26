@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 21:41:01 +0000 2020",
+		"id": 1232420258503417900,
+		"id_str": "1232420258503417856",
+		"full_text": "Dr. Donald D. Gehring passed away on February 11, 2020 at the age of 82. He was an administrator at Emory University, West Georgia College, and Mars Hill College. He taught at the University of Louisville (1978-91) and at BGSU (1991-2000). #HistSAHE https://t.co/bH3APF2lCt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSAHE",
+					"indices": [
+						240,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232420214823948300,
+					"id_str": "1232420214823948288",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/ERpvp96XkAAcP22.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERpvp96XkAAcP22.jpg",
+					"url": "https://t.co/bH3APF2lCt",
+					"display_url": "pic.twitter.com/bH3APF2lCt",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1232420258503417856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 331,
+							"h": 468,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 331,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232420214823948300,
+					"id_str": "1232420214823948288",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/ERpvp96XkAAcP22.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERpvp96XkAAcP22.jpg",
+					"url": "https://t.co/bH3APF2lCt",
+					"display_url": "pic.twitter.com/bH3APF2lCt",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1232420258503417856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 331,
+							"h": 468,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 331,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dr. Donald D. Gehring passed away on February 11, 2020 at the age of 82. He was an administrator at Emory University, West Georgia College, and Mars Hill College. He taught at the University of Louisville (1978-91) and at BGSU (1991-2000). #HistSAHE https://t.co/bH3APF2lCt"
+	},
+	{
 		"created_at": "Fri Feb 21 22:19:00 +0000 2020",
 		"id": 1230980264500826000,
 		"id_str": "1230980264500826118",
