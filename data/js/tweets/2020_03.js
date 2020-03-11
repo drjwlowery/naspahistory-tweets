@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 20:33:00 +0000 2020",
+		"id": 1237476570815750100,
+		"id_str": "1237476570815750151",
+		"full_text": "@DrLoriWashU @DePauwU @NASPAtweets James R. (“Jim”) Appleton was the 1974-1975 President of @NASPAtweets.\n    \nHe also served as President of @UofRedlands twice from 1987 until 2005 and again from 2010 until 2012. Before Redlands, Jim was VPSA at @USC and worked at @oaklandu in Michigan. https://t.co/qbpUjzdpG5",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLoriWashU",
+					"name": "Lori S. White",
+					"id": 3507116961,
+					"id_str": "3507116961",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DePauwU",
+					"name": "DePauw University",
+					"id": 71563476,
+					"id_str": "71563476",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"screen_name": "UofRedlands",
+					"name": "UniversityofRedlands",
+					"id": 23635476,
+					"id_str": "23635476",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"screen_name": "USC",
+					"name": "USC",
+					"id": 19809471,
+					"id_str": "19809471",
+					"indices": [
+						247,
+						251
+					]
+				},
+				{
+					"screen_name": "oaklandu",
+					"name": "Oakland University",
+					"id": 17468189,
+					"id_str": "17468189",
+					"indices": [
+						266,
+						275
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236399595363750000,
+					"id_str": "1236399595363749888",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/ESiS4ZoX0AAWN01.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESiS4ZoX0AAWN01.png",
+					"url": "https://t.co/qbpUjzdpG5",
+					"display_url": "pic.twitter.com/qbpUjzdpG5",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1237476570815750151/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 719,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 719,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236399595363750000,
+					"id_str": "1236399595363749888",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/ESiS4ZoX0AAWN01.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESiS4ZoX0AAWN01.png",
+					"url": "https://t.co/qbpUjzdpG5",
+					"display_url": "pic.twitter.com/qbpUjzdpG5",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1237476570815750151/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 719,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 719,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235342111446388700,
+		"in_reply_to_status_id_str": "1235342111446388736",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 62,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DrLoriWashU @DePauwU @NASPAtweets James R. (“Jim”) Appleton was the 1974-1975 President of @NASPAtweets.\n    \nHe also served as President of @UofRedlands twice from 1987 until 2005 and again from 2010 until 2012. Before Redlands, Jim was VPSA at @USC and worked at @oaklandu in Michigan. https://t.co/qbpUjzdpG5"
+	},
+	{
 		"created_at": "Mon Mar 09 20:30:00 +0000 2020",
 		"id": 1237113427832815600,
 		"id_str": "1237113427832815626",
