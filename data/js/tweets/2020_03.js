@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 20:39:02 +0000 2020",
+		"id": 1237840475819827200,
+		"id_str": "1237840475819827200",
+		"full_text": "@DrLoriWashU @DePauwU @NASPAtweets Dennis C. Golden was the \n1991-1992 President of @NASPAtweets.\n\nHe also served as President of Fontbonne University from 1995 until 2014. \n\nTo the best of our knowledge, he is the only former NASPA president to be drafted in the NFL. He was drafted by the Dallas Cowboys in 1963. https://t.co/waybr3nnSh",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			314
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLoriWashU",
+					"name": "Lori S. White",
+					"id": 3507116961,
+					"id_str": "3507116961",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DePauwU",
+					"name": "DePauw University",
+					"id": 71563476,
+					"id_str": "71563476",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						84,
+						96
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237472298967412700,
+					"id_str": "1237472298967412738",
+					"indices": [
+						315,
+						338
+					],
+					"media_url": "http://pbs.twimg.com/media/ESxif99WsAIWGCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESxif99WsAIWGCp.jpg",
+					"url": "https://t.co/waybr3nnSh",
+					"display_url": "pic.twitter.com/waybr3nnSh",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1237840475819827200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 333,
+							"h": 151,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 333,
+							"h": 151,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 333,
+							"h": 151,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237472298967412700,
+					"id_str": "1237472298967412738",
+					"indices": [
+						315,
+						338
+					],
+					"media_url": "http://pbs.twimg.com/media/ESxif99WsAIWGCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESxif99WsAIWGCp.jpg",
+					"url": "https://t.co/waybr3nnSh",
+					"display_url": "pic.twitter.com/waybr3nnSh",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1237840475819827200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 333,
+							"h": 151,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 333,
+							"h": 151,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 333,
+							"h": 151,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235342111446388700,
+		"in_reply_to_status_id_str": "1235342111446388736",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 62,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DrLoriWashU @DePauwU @NASPAtweets Dennis C. Golden was the \n1991-1992 President of @NASPAtweets.\n\nHe also served as President of Fontbonne University from 1995 until 2014. \n\nTo the best of our knowledge, he is the only former NASPA president to be drafted in the NFL. He was drafted by the Dallas Cowboys in 1963. https://t.co/waybr3nnSh"
+	},
+	{
 		"created_at": "Tue Mar 10 20:33:00 +0000 2020",
 		"id": 1237476570815750100,
 		"id_str": "1237476570815750151",
