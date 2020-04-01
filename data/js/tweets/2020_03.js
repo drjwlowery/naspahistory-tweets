@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 23:12:00 +0000 2020",
+		"id": 1245126729146007600,
+		"id_str": "1245126729146007552",
+		"full_text": "At the 1976 @NASPAtweets conference in Dallas, Helen Astin and Alexander Astin of @ucla jointly received the Oustanding Contribution to Research and Literature Award. The conference ended on March 31, 1976. \n\n#NASPA2020 https://t.co/sPPu1wTCyI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA2020",
+					"indices": [
+						209,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "UCLA",
+					"name": "UCLA",
+					"id": 18918483,
+					"id_str": "18918483",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245015985024831500,
+					"id_str": "1245015985024831492",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcvcScWkAQCx03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcvcScWkAQCx03.jpg",
+					"url": "https://t.co/sPPu1wTCyI",
+					"display_url": "pic.twitter.com/sPPu1wTCyI",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1245126729146007552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245015985024831500,
+					"id_str": "1245015985024831492",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcvcScWkAQCx03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcvcScWkAQCx03.jpg",
+					"url": "https://t.co/sPPu1wTCyI",
+					"display_url": "pic.twitter.com/sPPu1wTCyI",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1245126729146007552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the 1976 @NASPAtweets conference in Dallas, Helen Astin and Alexander Astin of @ucla jointly received the Oustanding Contribution to Research and Literature Award. The conference ended on March 31, 1976. \n\n#NASPA2020 https://t.co/sPPu1wTCyI"
+	},
+	{
+		"created_at": "Tue Mar 31 20:04:00 +0000 2020",
+		"id": 1245079417686241300,
+		"id_str": "1245079417686241282",
+		"full_text": "The 1976 @NASPAtweets conference concluded on March 31. The conference theme was The Student in Higher Education: Learning Styles, Impacts, and Values. \n\nFeatured speakers included Andrew Young, Helen Astin, Frederick Rudolph, William Bryan Martin, &amp; Grace Olivarez.\n#NASPA2020 https://t.co/nezVBi6J8k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA2020",
+					"indices": [
+						271,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245014157528895500,
+					"id_str": "1245014157528895489",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EUctx6fXkAEpCTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUctx6fXkAEpCTF.jpg",
+					"url": "https://t.co/nezVBi6J8k",
+					"display_url": "pic.twitter.com/nezVBi6J8k",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1245079417686241282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 934,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 934,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245014157528895500,
+					"id_str": "1245014157528895489",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EUctx6fXkAEpCTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUctx6fXkAEpCTF.jpg",
+					"url": "https://t.co/nezVBi6J8k",
+					"display_url": "pic.twitter.com/nezVBi6J8k",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1245079417686241282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 934,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 934,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 1976 @NASPAtweets conference concluded on March 31. The conference theme was The Student in Higher Education: Learning Styles, Impacts, and Values. \n\nFeatured speakers included Andrew Young, Helen Astin, Frederick Rudolph, William Bryan Martin, &amp; Grace Olivarez.\n#NASPA2020 https://t.co/nezVBi6J8k"
+	},
+	{
+		"created_at": "Tue Mar 31 17:48:00 +0000 2020",
+		"id": 1245045191997825000,
+		"id_str": "1245045191997825024",
+		"full_text": "The 1934 @NASPAtweets annual meeting in Evanston, Illinois concluded on March 31 with the annual business meeting. Dean Culver of @Stanford presented on his paper on The Phase of Student Welfare Work at Stanford. Read his full remarks here: https://t.co/9JvjHb7Ikx\n\n#NASPA2020 https://t.co/V9OAl4oiCU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA2020",
+					"indices": [
+						266,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "Stanford",
+					"name": "Stanford University",
+					"id": 18036441,
+					"id_str": "18036441",
+					"indices": [
+						130,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9JvjHb7Ikx",
+					"expanded_url": "https://hdl.handle.net/2027/pst.000013137625?urlappend=%3Bseq=153",
+					"display_url": "hdl.handle.net/2027/pst.00001…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1244738450508701700,
+					"id_str": "1244738450508701696",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EUYzBpzXYAAA6bV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUYzBpzXYAAA6bV.jpg",
+					"url": "https://t.co/V9OAl4oiCU",
+					"display_url": "pic.twitter.com/V9OAl4oiCU",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1245045191997825024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 315,
+							"h": 120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 315,
+							"h": 120,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 120,
+							"h": 120,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244738450508701700,
+					"id_str": "1244738450508701696",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EUYzBpzXYAAA6bV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUYzBpzXYAAA6bV.jpg",
+					"url": "https://t.co/V9OAl4oiCU",
+					"display_url": "pic.twitter.com/V9OAl4oiCU",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1245045191997825024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 315,
+							"h": 120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 315,
+							"h": 120,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 120,
+							"h": 120,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 1934 @NASPAtweets annual meeting in Evanston, Illinois concluded on March 31 with the annual business meeting. Dean Culver of @Stanford presented on his paper on The Phase of Student Welfare Work at Stanford. Read his full remarks here: https://t.co/9JvjHb7Ikx\n\n#NASPA2020 https://t.co/V9OAl4oiCU"
+	},
+	{
 		"created_at": "Mon Mar 30 20:47:00 +0000 2020",
 		"id": 1244727850827042800,
 		"id_str": "1244727850827042817",
