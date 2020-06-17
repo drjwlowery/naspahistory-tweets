@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 18:26:00 +0000 2020",
+		"id": 1272958620658028500,
+		"id_str": "1272958620658028547",
+		"full_text": "Dr. Earl J. Miller passed away on June 16, 1988. He was dean of men, 1925–1937 and dean of undergraduates 1937–1947 at @UCLA. \n\nHe served as @NASPAtweets president from 1944 until 1946. His term was extended when the association could not meet in 1945 due to travel restrictions. https://t.co/IzZk3alYkC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UCLA",
+					"name": "UCLA",
+					"id": 18918483,
+					"id_str": "18918483",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241833672887730200,
+					"id_str": "1241833672887730176",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ETvhJV6XgAAJc4r.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETvhJV6XgAAJc4r.png",
+					"url": "https://t.co/IzZk3alYkC",
+					"display_url": "pic.twitter.com/IzZk3alYkC",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1272958620658028547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 684,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 684,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241833672887730200,
+					"id_str": "1241833672887730176",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ETvhJV6XgAAJc4r.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETvhJV6XgAAJc4r.png",
+					"url": "https://t.co/IzZk3alYkC",
+					"display_url": "pic.twitter.com/IzZk3alYkC",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1272958620658028547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 684,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 684,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dr. Earl J. Miller passed away on June 16, 1988. He was dean of men, 1925–1937 and dean of undergraduates 1937–1947 at @UCLA. \n\nHe served as @NASPAtweets president from 1944 until 1946. His term was extended when the association could not meet in 1945 due to travel restrictions. https://t.co/IzZk3alYkC"
+	},
+	{
 		"created_at": "Mon Jun 15 17:31:00 +0000 2020",
 		"id": 1272582391643562000,
 		"id_str": "1272582391643561984",
