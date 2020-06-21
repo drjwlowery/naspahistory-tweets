@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 18:57:42 +0000 2020",
+		"id": 1271145713171345400,
+		"id_str": "1274416151192272904",
+		"full_text": "Fremont #Vegas #LasVegas https://t.co/rSquzPJZqG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Vegas",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "LasVegas",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271145707551043600,
+					"id_str": "1271145707551043584",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EaQESURXsAAIBLD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaQESURXsAAIBLD.jpg",
+					"url": "https://t.co/rSquzPJZqG",
+					"display_url": "pic.twitter.com/rSquzPJZqG",
+					"expanded_url": "https://twitter.com/PixVegas777/status/1271145713171345410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1230,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271145707551043600,
+					"id_str": "1271145707551043584",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EaQESURXsAAIBLD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaQESURXsAAIBLD.jpg",
+					"url": "https://t.co/rSquzPJZqG",
+					"display_url": "pic.twitter.com/rSquzPJZqG",
+					"expanded_url": "https://twitter.com/PixVegas777/status/1271145713171345410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1230,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863072293034971100,
+			"id_str": "863072293034971137",
+			"name": "Vegas History in Pictures",
+			"screen_name": "PixVegas777",
+			"location": "",
+			"description": "Pictures of all things Vegas",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6537,
+			"friends_count": 4575,
+			"listed_count": 45,
+			"created_at": "Fri May 12 16:44:04 +0000 2017",
+			"favourites_count": 1530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260966700138274816/3nB5oLiD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260966700138274816/3nB5oLiD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863072293034971137/1587292287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fremont #Vegas #LasVegas https://t.co/rSquzPJZqG"
+	},
+	{
 		"created_at": "Tue Jun 16 18:26:00 +0000 2020",
 		"id": 1272958620658028500,
 		"id_str": "1272958620658028547",
