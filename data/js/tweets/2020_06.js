@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 18:39:11 +0000 2020",
+		"id": 1276585818006737000,
+		"id_str": "1276585818006736896",
+		"full_text": "On June 26, 1943, Dr. Stanley Coulter passed away. He was Dean Emeritus at @LifeAtPurdue\n where he worked for 40 years. He also served @NASPAtweets as the 1922-23 NADAM President. At the 1944 conference in Chicago, NADAM passed a memorial resolution. Read: https://t.co/CIYgj6zoXC https://t.co/wBxtKRHVNH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LifeAtPurdue",
+					"name": "Purdue University",
+					"id": 16134525,
+					"id_str": "16134525",
+					"indices": [
+						75,
+						88
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						135,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CIYgj6zoXC",
+					"expanded_url": "https://itty.bitty.site/#/?XQAAAALFCgAAAAAAAAAeHAAGRVIW7YmVEWn8yBxahqtCRTPzxYjNT9Ay/GNglUEHays6CUMmDM9yCpgzjLyXc/kPctpMO+sl2pF0cDHNxC7+qjDgQ/zhuaYgsjwZ2ixi1mW4oSMBUuI0S55fz2zh05w6pBoPwtLpBRjc/8CVLNvSuMXOuQCOqSDt80VfwQZMUEz/yb5o4d+xvofwgN4mL9m0tkbC82/NQagg1INN8tGcXgSETM0H0YPe8ovkXaQYQ+gHbeahmZvC8ht1072yoHySiuJJBkXedocrT7ZYo2W/IlaCOJfuXIiz21NrKKBeHERuwImQPQAtXbB0pEHiiCqlrSSZb+ZpQfhQGro/mjEtwnDLtat4GQhLLWJ2Sw9VQc+qMMwE8VMv5zPLBA+BGIyPl9E1L1BrwieDSeVFcuzS3bv2I1Yu+7qyxYSIjdJ2SYbS2rO2nF6Y3dM/aHDCZ8/aan8QuxObJ7K+r58YwGwwSyqbz1wCLbIHSDHwPnoxWMG+7ZKF0TM9G9yVmQPCVfIAZNgqYgJ4or9Cpav5ROhp2oMgPPO5GfymeA+4Bye+MYJsRX4jOL50+qKXOmVmbimxOG6Nz7nBv0yqY7a8wgiuIqwW+dnH5zZONLOza9Oq0fSgm4odFklXzaBPjQ9/hiCjWOp4XT1T1Z3aGyYc00KLs/VkQwfYW8XqOGb11JdV93rN2WnzFuL6s/F+qJOElzUsGIGwlLcO5XqmqNftP0BwnQE2DssZmru9CC+HtAwijkFM4kaHKBUiLzn8mI2OqfJql7ibhAtfrVkQ68FGtkXfRdv1l6mOfGHKxYlhIKAHqoaJ5Z+Jcb+ApDrSKYXpjMl0jwwJn9cNgOLSWZqF0URUr6nCPkD/9RxXAS/RCinUJAaEmOSmyZA5hPLtHX68pXt9NydWYS0cRL7TZC5e/lzWFfAO9lufCX/10rC709ssvZVAhDsvLzZGD/y9ZJxYwtfLQKlx0y4z/6zGxFIvqiZ1CWDjmpVJ40pKgVur6DXlV7CXrTaH7I2f5r1CqUYnKJlXnYUxiuneKMVrnTIVpTPSiNOLCF9wPx1Wz79QeNjxYXMKvgvzbOZYFarGnNXhBAmCwLA6MZp+PVbDCC3HLTmE4izd0+tTnaABZrIG1O7lmOP/6exZlw==",
+					"display_url": "itty.bitty.site/#/?XQAAAALFCgA…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1276585797723082800,
+					"id_str": "1276585797723082754",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EbdYBPaX0AIn1nO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbdYBPaX0AIn1nO.jpg",
+					"url": "https://t.co/wBxtKRHVNH",
+					"display_url": "pic.twitter.com/wBxtKRHVNH",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1276585818006736896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1227,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276585797723082800,
+					"id_str": "1276585797723082754",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EbdYBPaX0AIn1nO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbdYBPaX0AIn1nO.jpg",
+					"url": "https://t.co/wBxtKRHVNH",
+					"display_url": "pic.twitter.com/wBxtKRHVNH",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1276585818006736896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1227,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On June 26, 1943, Dr. Stanley Coulter passed away. He was Dean Emeritus at @LifeAtPurdue\n where he worked for 40 years. He also served @NASPAtweets as the 1922-23 NADAM President. At the 1944 conference in Chicago, NADAM passed a memorial resolution. Read: https://t.co/CIYgj6zoXC https://t.co/wBxtKRHVNH"
+	},
+	{
 		"created_at": "Sat Jun 20 18:57:42 +0000 2020",
 		"id": 1271145713171345400,
 		"id_str": "1274416151192272904",
