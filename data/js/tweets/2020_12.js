@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 19:15:00 +0000 2020",
+		"id": 1338563155971215400,
+		"id_str": "1338563155971215362",
+		"full_text": "On December 14, 1944, Dr. Clarence E. (“Pat”) Edmondson passed away. He served as @IUBloomington's first dean of men from 1919-1944. Herman B. Wells said of him, \"No man meant so much to so many students at Indiana University.\"\n\nHe was the 1932-1933 president of @NASPAtweets. https://t.co/DnWvWogQdt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IUBloomington",
+					"name": "IU Bloomington",
+					"id": 18458348,
+					"id_str": "18458348",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						263,
+						275
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241830521128341500,
+					"id_str": "1241830521128341513",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ETveR4sX0AkhErw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETveR4sX0AkhErw.jpg",
+					"url": "https://t.co/DnWvWogQdt",
+					"display_url": "pic.twitter.com/DnWvWogQdt",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1338563155971215362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 631,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 631,
+							"h": 256,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 631,
+							"h": 256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241830521128341500,
+					"id_str": "1241830521128341513",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ETveR4sX0AkhErw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETveR4sX0AkhErw.jpg",
+					"url": "https://t.co/DnWvWogQdt",
+					"display_url": "pic.twitter.com/DnWvWogQdt",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1338563155971215362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 631,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 631,
+							"h": 256,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 631,
+							"h": 256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On December 14, 1944, Dr. Clarence E. (“Pat”) Edmondson passed away. He served as @IUBloomington's first dean of men from 1919-1944. Herman B. Wells said of him, \"No man meant so much to so many students at Indiana University.\"\n\nHe was the 1932-1933 president of @NASPAtweets. https://t.co/DnWvWogQdt"
+	},
+	{
 		"created_at": "Wed Dec 09 19:48:00 +0000 2020",
 		"id": 1336759520903782400,
 		"id_str": "1336759520903782401",
