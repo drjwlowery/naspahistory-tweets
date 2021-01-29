@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 18:25:00 +0000 2021",
+		"id": 1354858026864406500,
+		"id_str": "1354858026864406532",
+		"full_text": "Congratulations to Dr. Lisa Erwin, one of @NASPAtweets's 2020-21 recipients of Scott Goodnight Award for Outstanding Performance as a Dean. @laerwinUMD is Vice Chancellor for Student Life, UM-Duluth. \n\nGoodnight was founding NASPA president (1919-20) &amp; dean of men at Wisconsin. https://t.co/G9NnyBCzZf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "laerwinUMD",
+					"name": "Lisa Erwin",
+					"id": 267278715,
+					"id_str": "267278715",
+					"indices": [
+						140,
+						151
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354762387115692000,
+					"id_str": "1354762387115692034",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/Es0VNpcXUAIj2Q5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es0VNpcXUAIj2Q5.jpg",
+					"url": "https://t.co/G9NnyBCzZf",
+					"display_url": "pic.twitter.com/G9NnyBCzZf",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1354858026864406532/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 658,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354762387115692000,
+					"id_str": "1354762387115692034",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/Es0VNpcXUAIj2Q5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es0VNpcXUAIj2Q5.jpg",
+					"url": "https://t.co/G9NnyBCzZf",
+					"display_url": "pic.twitter.com/G9NnyBCzZf",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1354858026864406532/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 658,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to Dr. Lisa Erwin, one of @NASPAtweets's 2020-21 recipients of Scott Goodnight Award for Outstanding Performance as a Dean. @laerwinUMD is Vice Chancellor for Student Life, UM-Duluth. \n\nGoodnight was founding NASPA president (1919-20) &amp; dean of men at Wisconsin. https://t.co/G9NnyBCzZf"
+	},
+	{
 		"created_at": "Mon Jan 25 19:36:00 +0000 2021",
 		"id": 1353788730742632400,
 		"id_str": "1353788730742632448",
