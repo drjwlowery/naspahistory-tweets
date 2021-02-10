@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 18:13:03 +0000 2021",
+		"id": 1359203673310720000,
+		"id_str": "1359203673310720004",
+		"full_text": "@HelenGraceRyan @NASPAtweets @bellarmineU In this oral history interview, Fred Turner discusses his fifty years at the University of Illinois as a student and administrator. https://t.co/9nepiLQeni",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelenGraceRyan",
+					"name": "Helen Grace Ryan",
+					"id": 460777076,
+					"id_str": "460777076",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "bellarmineU",
+					"name": "Bellarmine University🍍",
+					"id": 17844897,
+					"id_str": "17844897",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9nepiLQeni",
+					"expanded_url": "https://www.library.illinois.edu/voices/collection-item/fred-turner/",
+					"display_url": "library.illinois.edu/voices/collect…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1359203396914450400,
+		"in_reply_to_status_id_str": "1359203396914450432",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@HelenGraceRyan @NASPAtweets @bellarmineU In this oral history interview, Fred Turner discusses his fifty years at the University of Illinois as a student and administrator. https://t.co/9nepiLQeni"
+	},
+	{
+		"created_at": "Tue Feb 09 18:11:57 +0000 2021",
+		"id": 1359203396914450400,
+		"id_str": "1359203396914450432",
+		"full_text": "@HelenGraceRyan @NASPAtweets @bellarmineU Few can claim a longer association with @NASPAtweets than Fred H. Turner. He was active in NASPA for five decades. He served NASPA as Secretary (1938-1958), President (1958-1959), and Historian for many years. He passed away in 1975. https://t.co/pKkRwqCj6c",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelenGraceRyan",
+					"name": "Helen Grace Ryan",
+					"id": 460777076,
+					"id_str": "460777076",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "bellarmineU",
+					"name": "Bellarmine University🍍",
+					"id": 17844897,
+					"id_str": "17844897",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						82,
+						94
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359203299891818500,
+					"id_str": "1359203299891818502",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EtzcMyuXMAY8_1S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtzcMyuXMAY8_1S.jpg",
+					"url": "https://t.co/pKkRwqCj6c",
+					"display_url": "pic.twitter.com/pKkRwqCj6c",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1359203396914450432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 899,
+							"h": 814,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359203299891818500,
+					"id_str": "1359203299891818502",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EtzcMyuXMAY8_1S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtzcMyuXMAY8_1S.jpg",
+					"url": "https://t.co/pKkRwqCj6c",
+					"display_url": "pic.twitter.com/pKkRwqCj6c",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1359203396914450432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 899,
+							"h": 814,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1359202520615301000,
+		"in_reply_to_status_id_str": "1359202520615301127",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@HelenGraceRyan @NASPAtweets @bellarmineU Few can claim a longer association with @NASPAtweets than Fred H. Turner. He was active in NASPA for five decades. He served NASPA as Secretary (1938-1958), President (1958-1959), and Historian for many years. He passed away in 1975. https://t.co/pKkRwqCj6c"
+	},
+	{
+		"created_at": "Tue Feb 09 18:08:28 +0000 2021",
+		"id": 1359202520615301000,
+		"id_str": "1359202520615301127",
+		"full_text": "@HelenGraceRyan @NASPAtweets @bellarmineU The Fred Turner Award for Outstanding Service to NASPA honors a NASPA member who has served in leadership roles at the state, regional, national, or international levels of NASPA. The Fred Turner Award is NASPA’s equivalent of a lifetime achievement award. https://t.co/lDICDuyMpM",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			322
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelenGraceRyan",
+					"name": "Helen Grace Ryan",
+					"id": 460777076,
+					"id_str": "460777076",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "bellarmineU",
+					"name": "Bellarmine University🍍",
+					"id": 17844897,
+					"id_str": "17844897",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lDICDuyMpM",
+					"expanded_url": "https://naspa.org/awards/fred-turner-award-for-outstanding-service-to-naspa4",
+					"display_url": "naspa.org/awards/fred-tu…",
+					"indices": [
+						299,
+						322
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1359134818336972800,
+		"in_reply_to_status_id_str": "1359134818336972802",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@HelenGraceRyan @NASPAtweets @bellarmineU The Fred Turner Award for Outstanding Service to NASPA honors a NASPA member who has served in leadership roles at the state, regional, national, or international levels of NASPA. The Fred Turner Award is NASPA’s equivalent of a lifetime achievement award. https://t.co/lDICDuyMpM"
+	},
+	{
 		"created_at": "Mon Feb 08 19:19:00 +0000 2021",
 		"id": 1358857883719372800,
 		"id_str": "1358857883719372801",
