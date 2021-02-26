@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 14:31:40 +0000 2021",
+		"id": 1364946166400639000,
+		"id_str": "1364946166400638987",
+		"full_text": "@NASPAtweets @mhow262 The Outstanding Contribution to Literature and/or Research Award was established in 1968 &amp; was presented for the first time to Dr. E. G. Williamson. In 2011, the award was named in honor of Dr. Kuh, the Chancellor’s Professor Emeritus at @IUBloomington &amp; Director, @NILOA_web. https://t.co/t1NjRrUk1S",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			306
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mhow262",
+					"name": "Mary howard-hamilton",
+					"id": 2746456750,
+					"id_str": "2746456750",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "IUBloomington",
+					"name": "IU Bloomington",
+					"id": 18458348,
+					"id_str": "18458348",
+					"indices": [
+						264,
+						278
+					]
+				},
+				{
+					"screen_name": "NILOA_web",
+					"name": "NILOA",
+					"id": 1444050348,
+					"id_str": "1444050348",
+					"indices": [
+						295,
+						305
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364946086977273900,
+					"id_str": "1364946086977273861",
+					"indices": [
+						307,
+						330
+					],
+					"media_url": "http://pbs.twimg.com/media/EvFDO_vXAAUvPEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvFDO_vXAAUvPEY.jpg",
+					"url": "https://t.co/t1NjRrUk1S",
+					"display_url": "pic.twitter.com/t1NjRrUk1S",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1364946166400638987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 487,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 487,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364946086977273900,
+					"id_str": "1364946086977273861",
+					"indices": [
+						307,
+						330
+					],
+					"media_url": "http://pbs.twimg.com/media/EvFDO_vXAAUvPEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvFDO_vXAAUvPEY.jpg",
+					"url": "https://t.co/t1NjRrUk1S",
+					"display_url": "pic.twitter.com/t1NjRrUk1S",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1364946166400638987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 487,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 487,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1364944281639805000,
+		"in_reply_to_status_id_str": "1364944281639804933",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets @mhow262 The Outstanding Contribution to Literature and/or Research Award was established in 1968 &amp; was presented for the first time to Dr. E. G. Williamson. In 2011, the award was named in honor of Dr. Kuh, the Chancellor’s Professor Emeritus at @IUBloomington &amp; Director, @NILOA_web. https://t.co/t1NjRrUk1S"
+	},
+	{
+		"created_at": "Thu Feb 25 14:26:19 +0000 2021",
+		"id": 1364944819458572300,
+		"id_str": "1364944819458572294",
+		"full_text": "@NASPAtweets @mhow262 George D. Kuh Award for Outstanding Contribution to Literature and/or Research Award recognizes a lifetime commitment to research &amp; scholarship by a scholar whose work has had a significant or transformative effect on higher education and student affairs. https://t.co/N2GjmT3rVp",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			305
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mhow262",
+					"name": "Mary howard-hamilton",
+					"id": 2746456750,
+					"id_str": "2746456750",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N2GjmT3rVp",
+					"expanded_url": "https://www.naspa.org/awards/george-d-kuh-award-for-outstanding-contribution-to-literature-and/or-research-award4",
+					"display_url": "naspa.org/awards/george-…",
+					"indices": [
+						282,
+						305
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1364944281639805000,
+		"in_reply_to_status_id_str": "1364944281639804933",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets @mhow262 George D. Kuh Award for Outstanding Contribution to Literature and/or Research Award recognizes a lifetime commitment to research &amp; scholarship by a scholar whose work has had a significant or transformative effect on higher education and student affairs. https://t.co/N2GjmT3rVp"
+	},
+	{
 		"created_at": "Mon Feb 22 20:17:44 +0000 2021",
 		"id": 1363946096318423000,
 		"id_str": "1363946096318423044",
