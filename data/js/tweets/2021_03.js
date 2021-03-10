@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 09 20:22:00 +0000 2021",
+		"id": 1369382985162719200,
+		"id_str": "1369382985162719243",
+		"full_text": "@NASPAtweets @DrNHudson If you are interested in NASPA's history and student affairs history more broadly, you are encouraged you to like the NASPA's History Facebook page and visit https://t.co/mfSbsUbT8I",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DrNHudson",
+					"name": "Nicholas Hudson, EdD",
+					"id": 2779256588,
+					"id_str": "2779256588",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mfSbsUbT8I",
+					"expanded_url": "http://history.naspa.org",
+					"display_url": "history.naspa.org",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1369324602246066200,
+		"in_reply_to_status_id_str": "1369324602246066176",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 250,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets @DrNHudson If you are interested in NASPA's history and student affairs history more broadly, you are encouraged you to like the NASPA's History Facebook page and visit https://t.co/mfSbsUbT8I"
+	},
+	{
+		"created_at": "Tue Mar 09 19:21:00 +0000 2021",
+		"id": 1369367634014134300,
+		"id_str": "1369367634014134272",
+		"full_text": "@NASPAtweets @DrNHudson Dr. Doris Michiko Ching is the former Vice President for Student Affairs at the University of Hawaii and the 1st woman of color &amp; 1st Asian Pacific Islander to be elected president of @NASPAtweets (1999-2000) and Chair of the @NASPAgives Board (2002-2004). https://t.co/S7QpXF9P7o",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			308
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DrNHudson",
+					"name": "Nicholas Hudson, EdD",
+					"id": 2779256588,
+					"id_str": "2779256588",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						212,
+						224
+					]
+				},
+				{
+					"screen_name": "NASPAgives",
+					"name": "NASPA Foundation",
+					"id": 1617979261,
+					"id_str": "1617979261",
+					"indices": [
+						254,
+						265
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S7QpXF9P7o",
+					"expanded_url": "https://www.naspa.org/people/doris-ching",
+					"display_url": "naspa.org/people/doris-c…",
+					"indices": [
+						285,
+						308
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1369324602246066200,
+		"in_reply_to_status_id_str": "1369324602246066176",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 250,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets @DrNHudson Dr. Doris Michiko Ching is the former Vice President for Student Affairs at the University of Hawaii and the 1st woman of color &amp; 1st Asian Pacific Islander to be elected president of @NASPAtweets (1999-2000) and Chair of the @NASPAgives Board (2002-2004). https://t.co/S7QpXF9P7o"
+	},
+	{
+		"created_at": "Tue Mar 09 17:19:00 +0000 2021",
+		"id": 1369336932090712000,
+		"id_str": "1369336932090712069",
+		"full_text": "@NASPAtweets @DrNHudson This award honors a student affairs professional whose outstanding commitment to the profession includes development of programs that address the needs of students, creation of a campus environment that promotes student learning &amp; development, &amp; active engagement in @NASPAtweets. https://t.co/CucJbKAiAb",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DrNHudson",
+					"name": "Nicholas Hudson, EdD",
+					"id": 2779256588,
+					"id_str": "2779256588",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						299,
+						311
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1369332158846951400,
+					"id_str": "1369332158846951429",
+					"indices": [
+						313,
+						336
+					],
+					"media_url": "http://pbs.twimg.com/media/EwDYV-uXYAUuChC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwDYV-uXYAUuChC.jpg",
+					"url": "https://t.co/CucJbKAiAb",
+					"display_url": "pic.twitter.com/CucJbKAiAb",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1369336932090712069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1033,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1369332158846951400,
+					"id_str": "1369332158846951429",
+					"indices": [
+						313,
+						336
+					],
+					"media_url": "http://pbs.twimg.com/media/EwDYV-uXYAUuChC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwDYV-uXYAUuChC.jpg",
+					"url": "https://t.co/CucJbKAiAb",
+					"display_url": "pic.twitter.com/CucJbKAiAb",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1369336932090712069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1033,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1369324602246066200,
+		"in_reply_to_status_id_str": "1369324602246066176",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 250,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets @DrNHudson This award honors a student affairs professional whose outstanding commitment to the profession includes development of programs that address the needs of students, creation of a campus environment that promotes student learning &amp; development, &amp; active engagement in @NASPAtweets. https://t.co/CucJbKAiAb"
+	},
+	{
 		"created_at": "Sun Mar 07 18:55:50 +0000 2021",
 		"id": 1368636527635468300,
 		"id_str": "1368636527635468288",
