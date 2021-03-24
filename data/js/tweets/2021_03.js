@@ -1,6 +1,3369 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 23 20:43:46 +0000 2021",
+		"id": 1374461894140907500,
+		"id_str": "1374461894140907528",
+		"full_text": "Thread by @NASPAhistory: The 13th annual conference of the National Association of Deans and Advisors of Men (now @NASPAtweets) was held in Gatlinburg, Tennessee on April 16-18, 1931. The conference was attended by...… https://t.co/T78r4hAetw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAhistory",
+					"name": "NASPA History",
+					"id": 937716186057527300,
+					"id_str": "937716186057527297",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T78r4hAetw",
+					"expanded_url": "https://threadreaderapp.com/thread/1374376417408942089.html",
+					"display_url": "threadreaderapp.com/thread/1374376…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread by @NASPAhistory: The 13th annual conference of the National Association of Deans and Advisors of Men (now @NASPAtweets) was held in Gatlinburg, Tennessee on April 16-18, 1931. The conference was attended by...… https://t.co/T78r4hAetw"
+	},
+	{
+		"created_at": "Tue Mar 23 20:25:00 +0000 2021",
+		"id": 1374457170226507800,
+		"id_str": "1374457170226507777",
+		"full_text": "@NASPAtweets At the 1931 @NASPAtweets conferences, key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Bradshaw of UNC saw real value in formal preparation and briefly outlined a plan and issues to be addressed in training deans of men.\n#NASPA21 https://t.co/XI69snx3Qp",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			292
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						284,
+						292
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374415490899013600,
+					"id_str": "1374415490899013636",
+					"indices": [
+						293,
+						316
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLnm2TUcAQ_GEb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLnm2TUcAQ_GEb.jpg",
+					"url": "https://t.co/XI69snx3Qp",
+					"display_url": "pic.twitter.com/XI69snx3Qp",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374457170226507777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374415490899013600,
+					"id_str": "1374415490899013636",
+					"indices": [
+						293,
+						316
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLnm2TUcAQ_GEb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLnm2TUcAQ_GEb.jpg",
+					"url": "https://t.co/XI69snx3Qp",
+					"display_url": "pic.twitter.com/XI69snx3Qp",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374457170226507777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets At the 1931 @NASPAtweets conferences, key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Bradshaw of UNC saw real value in formal preparation and briefly outlined a plan and issues to be addressed in training deans of men.\n#NASPA21 https://t.co/XI69snx3Qp"
+	},
+	{
+		"created_at": "Tue Mar 23 19:57:00 +0000 2021",
+		"id": 1374450123762245600,
+		"id_str": "1374450123762245632",
+		"full_text": "@NASPAtweets At the 1931 @NASPAtweets conferences, key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Rienow of Iowa concluded, \"I think, while they [deans of men] are born, they can be made better.\"\n\n#NASPA21 https://t.co/W7brqVKW0o",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						249,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374414884738232300,
+					"id_str": "1374414884738232323",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLnDkLU8AMgMaq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLnDkLU8AMgMaq.jpg",
+					"url": "https://t.co/W7brqVKW0o",
+					"display_url": "pic.twitter.com/W7brqVKW0o",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374450123762245632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374414884738232300,
+					"id_str": "1374414884738232323",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLnDkLU8AMgMaq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLnDkLU8AMgMaq.jpg",
+					"url": "https://t.co/W7brqVKW0o",
+					"display_url": "pic.twitter.com/W7brqVKW0o",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374450123762245632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets At the 1931 @NASPAtweets conferences, key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Rienow of Iowa concluded, \"I think, while they [deans of men] are born, they can be made better.\"\n\n#NASPA21 https://t.co/W7brqVKW0o"
+	},
+	{
+		"created_at": "Tue Mar 23 19:45:00 +0000 2021",
+		"id": 1374447104429465600,
+		"id_str": "1374447104429465606",
+		"full_text": "At the 1931 @NASPAtweets conferences, key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Melcher suggested, \"The best preparation for the work of Dean of Men may be gained from just such conferences as the present one.\"\n#NASPA21 https://t.co/7dhdvWo1me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						268,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374414396886151200,
+					"id_str": "1374414396886151174",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLmnKyU8AYtZyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLmnKyU8AYtZyc.jpg",
+					"url": "https://t.co/7dhdvWo1me",
+					"display_url": "pic.twitter.com/7dhdvWo1me",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374447104429465606/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374414396886151200,
+					"id_str": "1374414396886151174",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLmnKyU8AYtZyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLmnKyU8AYtZyc.jpg",
+					"url": "https://t.co/7dhdvWo1me",
+					"display_url": "pic.twitter.com/7dhdvWo1me",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374447104429465606/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the 1931 @NASPAtweets conferences, key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Melcher suggested, \"The best preparation for the work of Dean of Men may be gained from just such conferences as the present one.\"\n#NASPA21 https://t.co/7dhdvWo1me"
+	},
+	{
+		"created_at": "Tue Mar 23 19:22:00 +0000 2021",
+		"id": 1374441315832889300,
+		"id_str": "1374441315832889344",
+		"full_text": "@NASPAtweets At the 1931 @NASPAtweets conferences, several key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Clark of Illinois noted, \"Natural ability is the main thing; and after that the broadest general training we can get.\"\n\n#NASPA21 https://t.co/KhICfi8AYf",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						278,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374413780931670000,
+					"id_str": "1374413780931670020",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLmDULVcAQp3Kj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLmDULVcAQp3Kj.jpg",
+					"url": "https://t.co/KhICfi8AYf",
+					"display_url": "pic.twitter.com/KhICfi8AYf",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374441315832889344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374413780931670000,
+					"id_str": "1374413780931670020",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLmDULVcAQp3Kj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLmDULVcAQp3Kj.jpg",
+					"url": "https://t.co/KhICfi8AYf",
+					"display_url": "pic.twitter.com/KhICfi8AYf",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374441315832889344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets At the 1931 @NASPAtweets conferences, several key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Clark of Illinois noted, \"Natural ability is the main thing; and after that the broadest general training we can get.\"\n\n#NASPA21 https://t.co/KhICfi8AYf"
+	},
+	{
+		"created_at": "Tue Mar 23 19:00:00 +0000 2021",
+		"id": 1374435780043624400,
+		"id_str": "1374435780043624448",
+		"full_text": "Read the full proceedings of the 1931 @NASPAtweets conference held in Gatlinburg, Tennessee here: https://t.co/sFPhfF5oT0\n\n#NASPA21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						38,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sFPhfF5oT0",
+					"expanded_url": "https://archive.org/details/1931-proceedings",
+					"display_url": "archive.org/details/1931-p…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the full proceedings of the 1931 @NASPAtweets conference held in Gatlinburg, Tennessee here: https://t.co/sFPhfF5oT0\n\n#NASPA21"
+	},
+	{
+		"created_at": "Tue Mar 23 18:51:00 +0000 2021",
+		"id": 1374433514335187000,
+		"id_str": "1374433514335186944",
+		"full_text": "@NASPAtweets At the 1931 @NASPAtweets conferences, several key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Bursley of the University of Michigan concluded, \"The best and most successful Deans of Men are born and not made.\"\n\n#NASPA21 https://t.co/Y4gPRoESKn",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						275,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374413360653951000,
+					"id_str": "1374413360653950983",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLlq2hUYAcZ4Pz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLlq2hUYAcZ4Pz.jpg",
+					"url": "https://t.co/Y4gPRoESKn",
+					"display_url": "pic.twitter.com/Y4gPRoESKn",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374433514335186944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374413360653951000,
+					"id_str": "1374413360653950983",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLlq2hUYAcZ4Pz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLlq2hUYAcZ4Pz.jpg",
+					"url": "https://t.co/Y4gPRoESKn",
+					"display_url": "pic.twitter.com/Y4gPRoESKn",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374433514335186944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets At the 1931 @NASPAtweets conferences, several key leaders were invited to speak to the issue of \"Preparation for the Work of Dean of Men.\"\n\nDean Bursley of the University of Michigan concluded, \"The best and most successful Deans of Men are born and not made.\"\n\n#NASPA21 https://t.co/Y4gPRoESKn"
+	},
+	{
+		"created_at": "Tue Mar 23 18:30:00 +0000 2021",
+		"id": 1374428230451597300,
+		"id_str": "1374428230451597312",
+		"full_text": "@NASPAtweets In 1931, as today, student mental health was an issue. In 1931, Dr. Henry C. Schumacher addressed Mental Hygiene and Our Colleges. He defined mental hygiene as \"application of knowledge derived from certain basic sciences to the maintenance of individual mental health.\" #NASPA21 https://t.co/NLa5PeVtCZ",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			292
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						284,
+						292
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374410765097046000,
+					"id_str": "1374410765097046018",
+					"indices": [
+						293,
+						316
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLjTxUVEAImQuu.png",
+					"media_url_https": "https://pbs.twimg.com/media/ExLjTxUVEAImQuu.png",
+					"url": "https://t.co/NLa5PeVtCZ",
+					"display_url": "pic.twitter.com/NLa5PeVtCZ",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374428230451597312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 197,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 348,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 348,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374410765097046000,
+					"id_str": "1374410765097046018",
+					"indices": [
+						293,
+						316
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLjTxUVEAImQuu.png",
+					"media_url_https": "https://pbs.twimg.com/media/ExLjTxUVEAImQuu.png",
+					"url": "https://t.co/NLa5PeVtCZ",
+					"display_url": "pic.twitter.com/NLa5PeVtCZ",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374428230451597312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 197,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 348,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 348,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets In 1931, as today, student mental health was an issue. In 1931, Dr. Henry C. Schumacher addressed Mental Hygiene and Our Colleges. He defined mental hygiene as \"application of knowledge derived from certain basic sciences to the maintenance of individual mental health.\" #NASPA21 https://t.co/NLa5PeVtCZ"
+	},
+	{
+		"created_at": "Tue Mar 23 18:08:00 +0000 2021",
+		"id": 1374422693332750300,
+		"id_str": "1374422693332750344",
+		"full_text": "@NASPAtweets Assistant Dean W. B. Rea described the Car Regulations at the University of Michigan in 1931:\n\"No student in attendance... shall operate any motor vehicle. In exceptional and extraordinary cases in the discretion of the Dean of Students, this rule may be relaxed.\"\n\n #NASPA21 https://t.co/NOdayg8WaS",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						280,
+						288
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374402741087309800,
+					"id_str": "1374402741087309838",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLcAtjVEA4ccUL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLcAtjVEA4ccUL.jpg",
+					"url": "https://t.co/NOdayg8WaS",
+					"display_url": "pic.twitter.com/NOdayg8WaS",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374422693332750344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 323,
+							"h": 156,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 323,
+							"h": 156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 323,
+							"h": 156,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374402741087309800,
+					"id_str": "1374402741087309838",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLcAtjVEA4ccUL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLcAtjVEA4ccUL.jpg",
+					"url": "https://t.co/NOdayg8WaS",
+					"display_url": "pic.twitter.com/NOdayg8WaS",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374422693332750344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 323,
+							"h": 156,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 323,
+							"h": 156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 323,
+							"h": 156,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets Assistant Dean W. B. Rea described the Car Regulations at the University of Michigan in 1931:\n\"No student in attendance... shall operate any motor vehicle. In exceptional and extraordinary cases in the discretion of the Dean of Students, this rule may be relaxed.\"\n\n #NASPA21 https://t.co/NOdayg8WaS"
+	},
+	{
+		"created_at": "Tue Mar 23 17:45:00 +0000 2021",
+		"id": 1374416905214128000,
+		"id_str": "1374416905214128138",
+		"full_text": "@NASPAtweets Dean William E. Alderman described Beloit College's automobile regulations:\n\"Freshmen will not be allowed to operate motordriven\nvehicles. Sophomores, juniors and\nseniors who wish to operate cars must file requests from their parents and secure permission from the Dean.\"\n#NASPA21 https://t.co/Vo3yHOU6R2",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			293
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						285,
+						293
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374400855336571000,
+					"id_str": "1374400855336570894",
+					"indices": [
+						294,
+						317
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLaS8lUUA4tGE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLaS8lUUA4tGE6.jpg",
+					"url": "https://t.co/Vo3yHOU6R2",
+					"display_url": "pic.twitter.com/Vo3yHOU6R2",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374416905214128138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 268,
+							"h": 188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 268,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 268,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374400855336571000,
+					"id_str": "1374400855336570894",
+					"indices": [
+						294,
+						317
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLaS8lUUA4tGE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLaS8lUUA4tGE6.jpg",
+					"url": "https://t.co/Vo3yHOU6R2",
+					"display_url": "pic.twitter.com/Vo3yHOU6R2",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374416905214128138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 268,
+							"h": 188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 268,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 268,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets Dean William E. Alderman described Beloit College's automobile regulations:\n\"Freshmen will not be allowed to operate motordriven\nvehicles. Sophomores, juniors and\nseniors who wish to operate cars must file requests from their parents and secure permission from the Dean.\"\n#NASPA21 https://t.co/Vo3yHOU6R2"
+	},
+	{
+		"created_at": "Tue Mar 23 17:30:00 +0000 2021",
+		"id": 1374413133276618800,
+		"id_str": "1374413133276618757",
+		"full_text": "@NASPAtweets Dean Stanley Coulter of Purdue noted at @NASPAtweets in 1931:\n \n\"The heart of a Dean ought never to be measured by calendar years....  I have seen some deans as agile and alert at seventy-five as at seventeen. It is a great thing to see with the eyes of youth.\"\n\n#NASPA21 https://t.co/sGBR2Qbsou",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						276,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						53,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374399672731635700,
+					"id_str": "1374399672731635716",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLZOHCVEAQbp_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLZOHCVEAQbp_k.jpg",
+					"url": "https://t.co/sGBR2Qbsou",
+					"display_url": "pic.twitter.com/sGBR2Qbsou",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374413133276618757/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1227,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374399672731635700,
+					"id_str": "1374399672731635716",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLZOHCVEAQbp_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLZOHCVEAQbp_k.jpg",
+					"url": "https://t.co/sGBR2Qbsou",
+					"display_url": "pic.twitter.com/sGBR2Qbsou",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374413133276618757/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1227,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets Dean Stanley Coulter of Purdue noted at @NASPAtweets in 1931:\n \n\"The heart of a Dean ought never to be measured by calendar years....  I have seen some deans as agile and alert at seventy-five as at seventeen. It is a great thing to see with the eyes of youth.\"\n\n#NASPA21 https://t.co/sGBR2Qbsou"
+	},
+	{
+		"created_at": "Tue Mar 23 17:15:00 +0000 2021",
+		"id": 1374409355492216800,
+		"id_str": "1374409355492216832",
+		"full_text": "@NASPAtweets Prof. Lorin A. Thompson, Jr. of Ohio Wesleyan presented in 1931 on the Relationship of the Dean of Men to the Personnel\nOfficer in the Small College. He noted, the \"dean of men should be primarily interested in promoting and developing the\npersonalities of students.\" #NASPA21 https://t.co/tFhQ6IKH2W",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			289
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						281,
+						289
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374397674506522600,
+					"id_str": "1374397674506522634",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLXZzEVkAovo5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLXZzEVkAovo5K.jpg",
+					"url": "https://t.co/tFhQ6IKH2W",
+					"display_url": "pic.twitter.com/tFhQ6IKH2W",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374409355492216832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1239,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374397674506522600,
+					"id_str": "1374397674506522634",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLXZzEVkAovo5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLXZzEVkAovo5K.jpg",
+					"url": "https://t.co/tFhQ6IKH2W",
+					"display_url": "pic.twitter.com/tFhQ6IKH2W",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374409355492216832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1239,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets Prof. Lorin A. Thompson, Jr. of Ohio Wesleyan presented in 1931 on the Relationship of the Dean of Men to the Personnel\nOfficer in the Small College. He noted, the \"dean of men should be primarily interested in promoting and developing the\npersonalities of students.\" #NASPA21 https://t.co/tFhQ6IKH2W"
+	},
+	{
+		"created_at": "Tue Mar 23 16:33:00 +0000 2021",
+		"id": 1374398785636462600,
+		"id_str": "1374398785636462593",
+		"full_text": "@NASPAtweets Dean Robert Clothier at University of Pittsburgh addressed The Relation of the Dean of Men to Personnel Work in The Larger University at the 1931 @NASPAtweets conference. Clothier offered 14 principles for student affairs work and 14 questions a dean should consider.\n\n#NASPA21 https://t.co/3rz41YOOTA",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			290
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						282,
+						290
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						159,
+						171
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374393742820397000,
+					"id_str": "1374393742820397065",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLT08ZUUAkShus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLT08ZUUAkShus.jpg",
+					"url": "https://t.co/3rz41YOOTA",
+					"display_url": "pic.twitter.com/3rz41YOOTA",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374398785636462593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 679,
+							"h": 369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 369,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374393742820397000,
+					"id_str": "1374393742820397065",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLT08ZUUAkShus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLT08ZUUAkShus.jpg",
+					"url": "https://t.co/3rz41YOOTA",
+					"display_url": "pic.twitter.com/3rz41YOOTA",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374398785636462593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 679,
+							"h": 369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 369,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets Dean Robert Clothier at University of Pittsburgh addressed The Relation of the Dean of Men to Personnel Work in The Larger University at the 1931 @NASPAtweets conference. Clothier offered 14 principles for student affairs work and 14 questions a dean should consider.\n\n#NASPA21 https://t.co/3rz41YOOTA"
+	},
+	{
+		"created_at": "Tue Mar 23 16:23:00 +0000 2021",
+		"id": 1374396269309784000,
+		"id_str": "1374396269309784078",
+		"full_text": "@NASPAtweets President L. B. Hopkins of Wabash College presented on the Nature and Scope of Personnel Work at the 1931 @NASPAtweets conference. He was a former administrator at Northwestern and did a national study of the topic on the behalf of ACE in the late 1920s.\n\n#NASPA21 https://t.co/DisQqYPEyP",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374391188023742500,
+					"id_str": "1374391188023742475",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLRgPCVEAsiAvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLRgPCVEAsiAvU.jpg",
+					"url": "https://t.co/DisQqYPEyP",
+					"display_url": "pic.twitter.com/DisQqYPEyP",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374396269309784078/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 897,
+							"h": 587,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 897,
+							"h": 587,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374391188023742500,
+					"id_str": "1374391188023742475",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLRgPCVEAsiAvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLRgPCVEAsiAvU.jpg",
+					"url": "https://t.co/DisQqYPEyP",
+					"display_url": "pic.twitter.com/DisQqYPEyP",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374396269309784078/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 897,
+							"h": 587,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 897,
+							"h": 587,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets President L. B. Hopkins of Wabash College presented on the Nature and Scope of Personnel Work at the 1931 @NASPAtweets conference. He was a former administrator at Northwestern and did a national study of the topic on the behalf of ACE in the late 1920s.\n\n#NASPA21 https://t.co/DisQqYPEyP"
+	},
+	{
+		"created_at": "Tue Mar 23 15:45:00 +0000 2021",
+		"id": 1374386706061750300,
+		"id_str": "1374386706061750287",
+		"full_text": "You can read the full proceedings of the 1931 @naspatweets conference held in Gatlinburg, Tennessee here: https://t.co/sFPhfENNuq \n\n#NASPA21 https://t.co/ryWSO6UJ4O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sFPhfENNuq",
+					"expanded_url": "https://archive.org/details/1931-proceedings",
+					"display_url": "archive.org/details/1931-p…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1374384473198895000,
+					"id_str": "1374384473198895118",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLLZYXVIA4wCRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLLZYXVIA4wCRm.jpg",
+					"url": "https://t.co/ryWSO6UJ4O",
+					"display_url": "pic.twitter.com/ryWSO6UJ4O",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374386706061750287/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1109,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1109,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374384473198895000,
+					"id_str": "1374384473198895118",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLLZYXVIA4wCRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLLZYXVIA4wCRm.jpg",
+					"url": "https://t.co/ryWSO6UJ4O",
+					"display_url": "pic.twitter.com/ryWSO6UJ4O",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374386706061750287/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1109,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1109,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can read the full proceedings of the 1931 @naspatweets conference held in Gatlinburg, Tennessee here: https://t.co/sFPhfENNuq \n\n#NASPA21 https://t.co/ryWSO6UJ4O"
+	},
+	{
+		"created_at": "Tue Mar 23 15:34:00 +0000 2021",
+		"id": 1374383937888391200,
+		"id_str": "1374383937888391168",
+		"full_text": "@NASPAtweets Dean Smiley also observed:\n\n\"The duties of the office vary greatly—but—the greater part of the time of the dean of men is given to personal conferences with individual students on scholastic, financial, physical, and emotional problems.\"\n\n#NASPA21",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						252,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NASPAtweets Dean Smiley also observed:\n\n\"The duties of the office vary greatly—but—the greater part of the time of the dean of men is given to personal conferences with individual students on scholastic, financial, physical, and emotional problems.\"\n\n#NASPA21"
+	},
+	{
+		"created_at": "Tue Mar 23 15:30:00 +0000 2021",
+		"id": 1374382931892912000,
+		"id_str": "1374382931892912129",
+		"full_text": "@NASPAtweets The 1st speaker at the 1931 @NASPAtweets conference was Dean E. K. Smiley of @UofNorthDakota who presented on a recent survey of deans about the budgets for their offices and their salaries and time allocated to the dean role. More than 51 institutions responded. #NASPA21 https://t.co/NL9jHsYCSj",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						277,
+						285
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "UofNorthDakota",
+					"name": "U of North Dakota",
+					"id": 35790375,
+					"id_str": "35790375",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374377497756790800,
+					"id_str": "1374377497756790792",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLFDW0VcAgU0gS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLFDW0VcAgU0gS.jpg",
+					"url": "https://t.co/NL9jHsYCSj",
+					"display_url": "pic.twitter.com/NL9jHsYCSj",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374382931892912129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 555,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374377497756790800,
+					"id_str": "1374377497756790792",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLFDW0VcAgU0gS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLFDW0VcAgU0gS.jpg",
+					"url": "https://t.co/NL9jHsYCSj",
+					"display_url": "pic.twitter.com/NL9jHsYCSj",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374382931892912129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 555,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1374376417408942000,
+		"in_reply_to_status_id_str": "1374376417408942089",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets The 1st speaker at the 1931 @NASPAtweets conference was Dean E. K. Smiley of @UofNorthDakota who presented on a recent survey of deans about the budgets for their offices and their salaries and time allocated to the dean role. More than 51 institutions responded. #NASPA21 https://t.co/NL9jHsYCSj"
+	},
+	{
+		"created_at": "Tue Mar 23 15:04:07 +0000 2021",
+		"id": 1374376417408942000,
+		"id_str": "1374376417408942089",
+		"full_text": "The 13th annual conference of the National Association of Deans and Advisors of Men (now @NASPAtweets) was held in Gatlinburg, Tennessee on April 16-18, 1931. The conference was attended by 83 deans--the largest conference to date. \n\n#NASPA21 https://t.co/trri0QjfSz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA21",
+					"indices": [
+						234,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374376346638413800,
+					"id_str": "1374376346638413835",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLEAWkU8AsGHlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLEAWkU8AsGHlB.jpg",
+					"url": "https://t.co/trri0QjfSz",
+					"display_url": "pic.twitter.com/trri0QjfSz",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374376417408942089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 1060,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374376346638413800,
+					"id_str": "1374376346638413835",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/ExLEAWkU8AsGHlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExLEAWkU8AsGHlB.jpg",
+					"url": "https://t.co/trri0QjfSz",
+					"display_url": "pic.twitter.com/trri0QjfSz",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1374376417408942089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 1060,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 13th annual conference of the National Association of Deans and Advisors of Men (now @NASPAtweets) was held in Gatlinburg, Tennessee on April 16-18, 1931. The conference was attended by 83 deans--the largest conference to date. \n\n#NASPA21 https://t.co/trri0QjfSz"
+	},
+	{
 		"created_at": "Mon Mar 22 19:34:00 +0000 2021",
 		"id": 1374081948004446200,
 		"id_str": "1374081948004446209",
