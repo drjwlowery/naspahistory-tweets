@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 15 20:13:00 +0000 2021",
+		"id": 1382789071559397400,
+		"id_str": "1382789071559397377",
+		"full_text": "@NASPAtweets The topics discussed at the 1921 @NASPAtweets conference included:\n1. Student Government\n2. Fraternities\n3. Scholarship Reports\n4. Regulation of Social Life\n5. Student Health\n6. Absences\n7. Auditing accounts of Student Organizations https://t.co/d6L6pLYx2N",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382753827611349000,
+					"id_str": "1382753827611348993",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EzCHR7KWEAEpIbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzCHR7KWEAEpIbM.jpg",
+					"url": "https://t.co/d6L6pLYx2N",
+					"display_url": "pic.twitter.com/d6L6pLYx2N",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1382789071559397377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 615,
+							"h": 242,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 615,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382753827611349000,
+					"id_str": "1382753827611348993",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EzCHR7KWEAEpIbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzCHR7KWEAEpIbM.jpg",
+					"url": "https://t.co/d6L6pLYx2N",
+					"display_url": "pic.twitter.com/d6L6pLYx2N",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1382789071559397377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 615,
+							"h": 242,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 615,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1382753370331570200,
+		"in_reply_to_status_id_str": "1382753370331570182",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 32,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets The topics discussed at the 1921 @NASPAtweets conference included:\n1. Student Government\n2. Fraternities\n3. Scholarship Reports\n4. Regulation of Social Life\n5. Student Health\n6. Absences\n7. Auditing accounts of Student Organizations https://t.co/d6L6pLYx2N"
+	},
+	{
 		"created_at": "Wed Apr 14 20:43:02 +0000 2021",
 		"id": 1382434243704422400,
 		"id_str": "1382434243704422409",
