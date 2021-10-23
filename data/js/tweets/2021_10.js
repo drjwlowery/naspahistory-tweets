@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 17:31:59 +0000 2021",
+		"id": 1451602245196423200,
+		"id_str": "1451602245196423168",
+		"full_text": "O.D. Roberts passed away on October 22, 1986. He served @NASPAtweets as the 1968-1969 president. He also chaired 3 national conferences.\n\nRoberts was Assistant Vice President for Student Service and Dean of Men at @LifeAtPurdue where he worked from 1952 until retiring in 1976. https://t.co/uaVn4r4n5H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"screen_name": "LifeAtPurdue",
+					"name": "Purdue University",
+					"id": 16134525,
+					"id_str": "16134525",
+					"indices": [
+						214,
+						227
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451600835155218400,
+					"id_str": "1451600835155218433",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FCUfRMcWUAET3DY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCUfRMcWUAET3DY.jpg",
+					"url": "https://t.co/uaVn4r4n5H",
+					"display_url": "pic.twitter.com/uaVn4r4n5H",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1451602245196423168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 341,
+							"h": 479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 341,
+							"h": 479,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 341,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451600835155218400,
+					"id_str": "1451600835155218433",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FCUfRMcWUAET3DY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCUfRMcWUAET3DY.jpg",
+					"url": "https://t.co/uaVn4r4n5H",
+					"display_url": "pic.twitter.com/uaVn4r4n5H",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1451602245196423168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 341,
+							"h": 479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 341,
+							"h": 479,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 341,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "O.D. Roberts passed away on October 22, 1986. He served @NASPAtweets as the 1968-1969 president. He also chaired 3 national conferences.\n\nRoberts was Assistant Vice President for Student Service and Dean of Men at @LifeAtPurdue where he worked from 1952 until retiring in 1976. https://t.co/uaVn4r4n5H"
+	},
+	{
 		"created_at": "Wed Oct 06 18:58:52 +0000 2021",
 		"id": 1445825905310371800,
 		"id_str": "1445825905310371848",
