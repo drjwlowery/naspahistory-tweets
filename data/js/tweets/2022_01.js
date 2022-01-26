@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 21:42:00 +0000 2022",
+		"id": 1486092010519863300,
+		"id_str": "1486092010519863296",
+		"full_text": "Today, NASPA is the oldest existing student affairs organization and conference. From that first conference attended by 6 deans of men and faculty, the NASPA conference has grown to more 7,600 attendees at the 2019 conference in Los Angeles. https://t.co/Ftffb7pSEv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484577217141223400,
+					"id_str": "1484577217141223424",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FJpHHQVXMAABOyg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJpHHQVXMAABOyg.jpg",
+					"url": "https://t.co/Ftffb7pSEv",
+					"display_url": "pic.twitter.com/Ftffb7pSEv",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1486092010519863296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484577217141223400,
+					"id_str": "1484577217141223424",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FJpHHQVXMAABOyg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJpHHQVXMAABOyg.jpg",
+					"url": "https://t.co/Ftffb7pSEv",
+					"display_url": "pic.twitter.com/Ftffb7pSEv",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1486092010519863296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, NASPA is the oldest existing student affairs organization and conference. From that first conference attended by 6 deans of men and faculty, the NASPA conference has grown to more 7,600 attendees at the 2019 conference in Los Angeles. https://t.co/Ftffb7pSEv"
+	},
+	{
+		"created_at": "Tue Jan 25 20:33:00 +0000 2022",
+		"id": 1486074646281678800,
+		"id_str": "1486074646281678849",
+		"full_text": "On January 25, 1919, the first NASPA conference concluded at the University of Wisconsin hosted by Scott Goodnight. \n\nYou can read the notes from the 1919 meeting prepared by Professor Louis Strauss of the University of Michigan here: https://t.co/tSvReKlp9J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tSvReKlp9J",
+					"expanded_url": "https://archive.org/details/1919-secretarys-report-of-conference",
+					"display_url": "archive.org/details/1919-s…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On January 25, 1919, the first NASPA conference concluded at the University of Wisconsin hosted by Scott Goodnight. \n\nYou can read the notes from the 1919 meeting prepared by Professor Louis Strauss of the University of Michigan here: https://t.co/tSvReKlp9J"
+	},
+	{
+		"created_at": "Tue Jan 25 17:36:00 +0000 2022",
+		"id": 1486030102714593300,
+		"id_str": "1486030102714593282",
+		"full_text": "Scott Goodnight hosted the inaugural @NASPAtweets meeting at the Univ. of Wisconsin in 1919 and twice served as the association's president in 1919-1920 and again in 1927-1928. \n\nGoodnight was Wisconsin's Dean of Men from 1916 until his retirement in 1945. He passed away in 1972. https://t.co/P2klT8p6ne",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						37,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484575698719289300,
+					"id_str": "1484575698719289349",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FJpFu3xXMAUAu9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJpFu3xXMAUAu9c.jpg",
+					"url": "https://t.co/P2klT8p6ne",
+					"display_url": "pic.twitter.com/P2klT8p6ne",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1486030102714593282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484575698719289300,
+					"id_str": "1484575698719289349",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FJpFu3xXMAUAu9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJpFu3xXMAUAu9c.jpg",
+					"url": "https://t.co/P2klT8p6ne",
+					"display_url": "pic.twitter.com/P2klT8p6ne",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1486030102714593282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scott Goodnight hosted the inaugural @NASPAtweets meeting at the Univ. of Wisconsin in 1919 and twice served as the association's president in 1919-1920 and again in 1927-1928. \n\nGoodnight was Wisconsin's Dean of Men from 1916 until his retirement in 1945. He passed away in 1972. https://t.co/P2klT8p6ne"
+	},
+	{
+		"created_at": "Tue Jan 25 16:19:00 +0000 2022",
+		"id": 1486010724975579100,
+		"id_str": "1486010724975579142",
+		"full_text": "Day One celebrates the founding of NASPA on January 25, 1919 – 104 years ago! \n\nNASPA Foundation was founded to transform how people think about, talk about, and participate in giving back.  https://t.co/t2QpdFiNvs.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t2QpdFiNvs",
+					"expanded_url": "https://www.naspa.org/events/naspa-foundation-day-one#:~:text=Day%20One%20celebrates%20the%20founding,give%20back%20to%20our%20members",
+					"display_url": "naspa.org/events/naspa-f…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day One celebrates the founding of NASPA on January 25, 1919 – 104 years ago! \n\nNASPA Foundation was founded to transform how people think about, talk about, and participate in giving back.  https://t.co/t2QpdFiNvs."
+	},
+	{
 		"created_at": "Mon Jan 24 20:32:00 +0000 2022",
 		"id": 1485712006850044000,
 		"id_str": "1485712006850043907",
