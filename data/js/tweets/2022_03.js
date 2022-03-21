@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 20 21:28:49 +0000 2022",
+		"id": 1505657636733259800,
+		"id_str": "1505657636733259786",
+		"full_text": "If you are interested in public policy, @NaspaPublic,  @NASPAtweets history, and understanding the evolving role of the federal government in higher education, join us on Tuesday for NASPA, Student Affairs, and the Government: Exploring NASPA's History with Public Policy. https://t.co/hY2sKpBuzT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NaspaPublic",
+					"name": "NASPA Public Policy Division",
+					"id": 1234546207126630400,
+					"id_str": "1234546207126630401",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505657628797644800,
+					"id_str": "1505657628797644807",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FOUrotXXMAcB0V4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOUrotXXMAcB0V4.jpg",
+					"url": "https://t.co/hY2sKpBuzT",
+					"display_url": "pic.twitter.com/hY2sKpBuzT",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1505657636733259786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 431,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 461,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505657628797644800,
+					"id_str": "1505657628797644807",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FOUrotXXMAcB0V4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOUrotXXMAcB0V4.jpg",
+					"url": "https://t.co/hY2sKpBuzT",
+					"display_url": "pic.twitter.com/hY2sKpBuzT",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1505657636733259786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 431,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 461,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are interested in public policy, @NaspaPublic,  @NASPAtweets history, and understanding the evolving role of the federal government in higher education, join us on Tuesday for NASPA, Student Affairs, and the Government: Exploring NASPA's History with Public Policy. https://t.co/hY2sKpBuzT"
+	},
+	{
+		"created_at": "Sun Mar 20 21:22:35 +0000 2022",
+		"id": 1505656069032484900,
+		"id_str": "1505656069032484866",
+		"full_text": "As we begin #NASPA22, this is our 1st in-person annual conference since the 2019 conference concluded in Los Angeles. \n\nThis is not the 1st gap in @NASPAtweets conferences. In 1945, NASPA did not have a conference because of national travel limitations imposed late in WW II. https://t.co/Fynw9k3dGU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA22",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						147,
+						159
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505656057644949500,
+					"id_str": "1505656057644949510",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FOUqNQXXoAYErQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOUqNQXXoAYErQb.jpg",
+					"url": "https://t.co/Fynw9k3dGU",
+					"display_url": "pic.twitter.com/Fynw9k3dGU",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1505656069032484866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 644,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 644,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 644,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505656057644949500,
+					"id_str": "1505656057644949510",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FOUqNQXXoAYErQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOUqNQXXoAYErQb.jpg",
+					"url": "https://t.co/Fynw9k3dGU",
+					"display_url": "pic.twitter.com/Fynw9k3dGU",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1505656069032484866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 644,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 644,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 644,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As we begin #NASPA22, this is our 1st in-person annual conference since the 2019 conference concluded in Los Angeles. \n\nThis is not the 1st gap in @NASPAtweets conferences. In 1945, NASPA did not have a conference because of national travel limitations imposed late in WW II. https://t.co/Fynw9k3dGU"
+	},
+	{
 		"created_at": "Fri Mar 18 13:26:15 +0000 2022",
 		"id": 1504811421124731000,
 		"id_str": "1504811421124730905",
