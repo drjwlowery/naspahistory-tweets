@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 23 15:30:16 +0000 2022",
+		"id": 1506654570788888600,
+		"id_str": "1506654570788888576",
+		"full_text": "Chancellor Robert J. Jones closed the African American presidents panel at #NASPA22 with a quote from the song Optimistic. Dr. Jones is also a member of the Grammy Award winning group Sounds of Blackness which recorded the song. You can listen to here. https://t.co/Q9uMpdiZQS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA22",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q9uMpdiZQS",
+					"expanded_url": "https://youtu.be/Xtne9ojsbBM",
+					"display_url": "youtu.be/Xtne9ojsbBM",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506638693662142500,
+		"in_reply_to_status_id_str": "1506638693662142467",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chancellor Robert J. Jones closed the African American presidents panel at #NASPA22 with a quote from the song Optimistic. Dr. Jones is also a member of the Grammy Award winning group Sounds of Blackness which recorded the song. You can listen to here. https://t.co/Q9uMpdiZQS"
+	},
+	{
+		"created_at": "Wed Mar 23 14:55:15 +0000 2022",
+		"id": 1506645758371635200,
+		"id_str": "1506645758371635206",
+		"full_text": "At least 3 of the African American presidents on the @NASPAtweets closing #NASPA22 panel have worked in student affairs: @DrLoriDePauwU, @DrLisaCopprue, and @ChancellorRJ. https://t.co/dY8KOayu66",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NASPA22",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "DrLoriDePauwU",
+					"name": "Lori S. White",
+					"id": 3507116961,
+					"id_str": "3507116961",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"screen_name": "DrLisaCopprue",
+					"name": "Lisa Jones Copprue,Ph.D.",
+					"id": 2555807208,
+					"id_str": "2555807208",
+					"indices": [
+						137,
+						151
+					]
+				},
+				{
+					"screen_name": "ChancellorRJ",
+					"name": "Robert J. Jones",
+					"id": 1429865441397198800,
+					"id_str": "1429865441397198852",
+					"indices": [
+						157,
+						170
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506645753820815400,
+					"id_str": "1506645753820815375",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FOiuVJ7XIA8f-eK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOiuVJ7XIA8f-eK.jpg",
+					"url": "https://t.co/dY8KOayu66",
+					"display_url": "pic.twitter.com/dY8KOayu66",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1506645758371635206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506645753820815400,
+					"id_str": "1506645753820815375",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FOiuVJ7XIA8f-eK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOiuVJ7XIA8f-eK.jpg",
+					"url": "https://t.co/dY8KOayu66",
+					"display_url": "pic.twitter.com/dY8KOayu66",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1506645758371635206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506637393453006800,
+		"in_reply_to_status_id_str": "1506637393453006858",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At least 3 of the African American presidents on the @NASPAtweets closing #NASPA22 panel have worked in student affairs: @DrLoriDePauwU, @DrLisaCopprue, and @ChancellorRJ. https://t.co/dY8KOayu66"
+	},
+	{
+		"created_at": "Wed Mar 23 14:30:31 +0000 2022",
+		"id": 1506639534255190000,
+		"id_str": "1506639534255190019",
+		"full_text": "You can read Dr. James M. Nabrit’s address at the 1961 @NASPAtweets conference and all of the other elements of the conference here: https://t.co/yU9ZfdeGR5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yU9ZfdeGR5",
+					"expanded_url": "https://archive.org/details/1961-proceedings",
+					"display_url": "archive.org/details/1961-p…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506637393453006800,
+		"in_reply_to_status_id_str": "1506637393453006858",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can read Dr. James M. Nabrit’s address at the 1961 @NASPAtweets conference and all of the other elements of the conference here: https://t.co/yU9ZfdeGR5"
+	},
+	{
+		"created_at": "Wed Mar 23 14:27:11 +0000 2022",
+		"id": 1506638693662142500,
+		"id_str": "1506638693662142467",
+		"full_text": "Dr. James M. Nabrit spent his career at @HowardU.  He joined the law school faculty in 1936, served as dean of the law school, and president of the university in the 1960s. He was also a prominent civil rights attorney. https://t.co/krqefxSc9z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HowardU",
+					"name": "Howard University",
+					"id": 27147528,
+					"id_str": "27147528",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506638690956849200,
+					"id_str": "1506638690956849160",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FOin6CtXsAgIFvI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOin6CtXsAgIFvI.jpg",
+					"url": "https://t.co/krqefxSc9z",
+					"display_url": "pic.twitter.com/krqefxSc9z",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1506638693662142467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 234,
+							"h": 215,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 234,
+							"h": 215,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 234,
+							"h": 215,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506638690956849200,
+					"id_str": "1506638690956849160",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FOin6CtXsAgIFvI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOin6CtXsAgIFvI.jpg",
+					"url": "https://t.co/krqefxSc9z",
+					"display_url": "pic.twitter.com/krqefxSc9z",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1506638693662142467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 234,
+							"h": 215,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 234,
+							"h": 215,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 234,
+							"h": 215,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1506637393453006800,
+		"in_reply_to_status_id_str": "1506637393453006858",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dr. James M. Nabrit spent his career at @HowardU.  He joined the law school faculty in 1936, served as dean of the law school, and president of the university in the 1960s. He was also a prominent civil rights attorney. https://t.co/krqefxSc9z"
+	},
+	{
 		"created_at": "Tue Mar 22 20:02:13 +0000 2022",
 		"id": 1506360619175399400,
 		"id_str": "1506360619175399428",
