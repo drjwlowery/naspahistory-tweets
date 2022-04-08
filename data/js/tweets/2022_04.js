@@ -1,6 +1,126 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 17:56:33 +0000 2022",
+		"id": 1512127203248644000,
+		"id_str": "1512127203248644103",
+		"full_text": "On April 7, 1960 at the Columbus conference, the membership of @NASPAtweets adopted a new Statement of Principles and Ethical Practices of Student Personnel Administrators which built upon the 1952 Statement of Principles.\n\nRead the full statement here: https://t.co/xTusBQChj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						63,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xTusBQChj9",
+					"expanded_url": "https://itty.bitty.site/#Statement_of_Principles_and_Ethical_Practices_of_Student_Personnel_Administrators/?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",
+					"display_url": "itty.bitty.site/#Statement_of_…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On April 7, 1960 at the Columbus conference, the membership of @NASPAtweets adopted a new Statement of Principles and Ethical Practices of Student Personnel Administrators which built upon the 1952 Statement of Principles.\n\nRead the full statement here: https://t.co/xTusBQChj9"
+	},
+	{
 		"created_at": "Mon Apr 04 20:53:32 +0000 2022",
 		"id": 1511084577510637600,
 		"id_str": "1511084577510637575",
