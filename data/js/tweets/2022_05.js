@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 17:11:00 +0000 2022",
+		"id": 1527336028037472300,
+		"id_str": "1527336028037472267",
+		"full_text": "@NASPAtweets In 1973, Sandy and his wife, Dr. Helen Astin (who passed away in 2015), joined the faculty at @UCLA. Sandy would become founding director of @HERIUCLA which would assume reasonability for CIRP. He spent the remainder of his career at UCLA.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "UCLA",
+					"name": "UCLA",
+					"id": 18918483,
+					"id_str": "18918483",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"screen_name": "HERIUCLA",
+					"name": "HERI",
+					"id": 266159102,
+					"id_str": "266159102",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1527333556925522000,
+		"in_reply_to_status_id_str": "1527333556925521920",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NASPAtweets In 1973, Sandy and his wife, Dr. Helen Astin (who passed away in 2015), joined the faculty at @UCLA. Sandy would become founding director of @HERIUCLA which would assume reasonability for CIRP. He spent the remainder of his career at UCLA."
+	},
+	{
+		"created_at": "Thu May 19 17:09:55 +0000 2022",
+		"id": 1527335754799538200,
+		"id_str": "1527335754799538184",
+		"full_text": "@NASPAtweets In 1960, Sandy joined @nationalmerit as the Director of Research. \n\nIn 1965, he joined the @ACEducation as Director of Research and launched a national survey of college students which would quickly become the Cooperative Institutional Research Program (CIRP).",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nationalmerit",
+					"name": "National Merit Scholarship Corporation (NMSC)",
+					"id": 1553961332,
+					"id_str": "1553961332",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "ACEducation",
+					"name": "ACE",
+					"id": 119235720,
+					"id_str": "119235720",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1527335373939961900,
+		"in_reply_to_status_id_str": "1527335373939961856",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NASPAtweets In 1960, Sandy joined @nationalmerit as the Director of Research. \n\nIn 1965, he joined the @ACEducation as Director of Research and launched a national survey of college students which would quickly become the Cooperative Institutional Research Program (CIRP)."
+	},
+	{
+		"created_at": "Thu May 19 17:08:24 +0000 2022",
+		"id": 1527335373939961900,
+		"id_str": "1527335373939961856",
+		"full_text": "@NASPAtweets Sandy completed his undergraduate studies at Gettysburg College where he said he was not a serious student. \n\nHe went on to earn his master's (1956) and doctorate (1958) in counseling psychology at the University of Maryland. https://t.co/ekTaIoEIQp",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527335229014577200,
+					"id_str": "1527335229014577153",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FTIvTHJakAE9BK0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTIvTHJakAE9BK0.jpg",
+					"url": "https://t.co/ekTaIoEIQp",
+					"display_url": "pic.twitter.com/ekTaIoEIQp",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1527335373939961856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 227,
+							"h": 298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 227,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 227,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527335229014577200,
+					"id_str": "1527335229014577153",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FTIvTHJakAE9BK0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTIvTHJakAE9BK0.jpg",
+					"url": "https://t.co/ekTaIoEIQp",
+					"display_url": "pic.twitter.com/ekTaIoEIQp",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1527335373939961856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 227,
+							"h": 298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 227,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 227,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1527333556925522000,
+		"in_reply_to_status_id_str": "1527333556925521920",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NASPAtweets Sandy completed his undergraduate studies at Gettysburg College where he said he was not a serious student. \n\nHe went on to earn his master's (1956) and doctorate (1958) in counseling psychology at the University of Maryland. https://t.co/ekTaIoEIQp"
+	},
+	{
 		"created_at": "Fri May 13 17:52:11 +0000 2022",
 		"id": 1525172066378469400,
 		"id_str": "1525172066378469379",
