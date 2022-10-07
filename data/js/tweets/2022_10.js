@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 17:20:00 +0000 2022",
+		"id": 1578072594103795700,
+		"id_str": "1578072594103795712",
+		"full_text": "Victor F. Spathelf passed away on Oct. 6, 1998 at the age of 88. He was the 1952-53 @NASPAtweets president.\n\nDuring his presidency, he moved from Wayne State where he served as Dean of Student Affairs to Ferris State University, where he would serve as president in until 1972. https://t.co/vmaQdIUrO2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						84,
+						96
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577720726609617000,
+					"id_str": "1577720726609616896",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FeUwpEhWYAAWvM1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeUwpEhWYAAWvM1.jpg",
+					"url": "https://t.co/vmaQdIUrO2",
+					"display_url": "pic.twitter.com/vmaQdIUrO2",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1578072594103795712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577720726609617000,
+					"id_str": "1577720726609616896",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FeUwpEhWYAAWvM1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeUwpEhWYAAWvM1.jpg",
+					"url": "https://t.co/vmaQdIUrO2",
+					"display_url": "pic.twitter.com/vmaQdIUrO2",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1578072594103795712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/jDWkdGdBnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDWkdGdBnt",
+							"expanded_url": "http://naspa.org",
+							"display_url": "naspa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 38,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Victor F. Spathelf passed away on Oct. 6, 1998 at the age of 88. He was the 1952-53 @NASPAtweets president.\n\nDuring his presidency, he moved from Wayne State where he served as Dean of Student Affairs to Ferris State University, where he would serve as president in until 1972. https://t.co/vmaQdIUrO2"
+	},
+	{
 		"created_at": "Sat Oct 01 17:09:00 +0000 2022",
 		"id": 1576257886270853000,
 		"id_str": "1576257886270853128",
