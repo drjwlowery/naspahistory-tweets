@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 20:30:35 +0000 2022",
+		"id": 1582469211393523700,
+		"id_str": "1582469211393523712",
+		"full_text": "E. T. \"Joe\" Buchanan III served as the 1981-1982 @NASPAtweets president. He was only the second president from a community college. \n\nHe was a well respected expert on student affairs law with a J.D. from Florida and Ph.D. from Florida State University. https://t.co/uhNMzyT1Tq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						49,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582468732424708000,
+					"id_str": "1582468732424708096",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FfYO7YhWYAAd4OO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfYO7YhWYAAd4OO.jpg",
+					"url": "https://t.co/uhNMzyT1Tq",
+					"display_url": "pic.twitter.com/uhNMzyT1Tq",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1582469211393523712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 779,
+							"h": 752,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 779,
+							"h": 752,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582468732424708000,
+					"id_str": "1582468732424708096",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FfYO7YhWYAAd4OO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfYO7YhWYAAd4OO.jpg",
+					"url": "https://t.co/uhNMzyT1Tq",
+					"display_url": "pic.twitter.com/uhNMzyT1Tq",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1582469211393523712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 779,
+							"h": 752,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 779,
+							"h": 752,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/nt1IV8SxLc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nt1IV8SxLc",
+							"expanded_url": "http://linktr.ee/naspahistory",
+							"display_url": "linktr.ee/naspahistory",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 38,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "E. T. \"Joe\" Buchanan III served as the 1981-1982 @NASPAtweets president. He was only the second president from a community college. \n\nHe was a well respected expert on student affairs law with a J.D. from Florida and Ph.D. from Florida State University. https://t.co/uhNMzyT1Tq"
+	},
+	{
 		"created_at": "Thu Oct 06 17:20:00 +0000 2022",
 		"id": 1578072594103795700,
 		"id_str": "1578072594103795712",
