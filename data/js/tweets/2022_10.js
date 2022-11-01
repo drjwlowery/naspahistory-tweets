@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 04:08:00 +0000 2022",
+		"id": 1586932977346363400,
+		"id_str": "1586932977346363393",
+		"full_text": "As we end another Careers in Student Affairs month, consider how @NASPAtweets described Career Perspectives in Student Affairs in this 1984 monograph. \n\nhttps://t.co/ka5bRrfcs8 https://t.co/iLYZ35oqLt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ka5bRrfcs8",
+					"expanded_url": "https://archive.org/details/career-perspectives-in-student-affairs-naspa-1984",
+					"display_url": "archive.org/details/career…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585282282268467200,
+					"id_str": "1585282282268467212",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FgAN1idVIAw3U8u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgAN1idVIAw3U8u.jpg",
+					"url": "https://t.co/iLYZ35oqLt",
+					"display_url": "pic.twitter.com/iLYZ35oqLt",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1586932977346363393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585282282268467200,
+					"id_str": "1585282282268467212",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FgAN1idVIAw3U8u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgAN1idVIAw3U8u.jpg",
+					"url": "https://t.co/iLYZ35oqLt",
+					"display_url": "pic.twitter.com/iLYZ35oqLt",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1586932977346363393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/nt1IV8SxLc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nt1IV8SxLc",
+							"expanded_url": "http://linktr.ee/naspahistory",
+							"display_url": "linktr.ee/naspahistory",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 39,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As we end another Careers in Student Affairs month, consider how @NASPAtweets described Career Perspectives in Student Affairs in this 1984 monograph. \n\nhttps://t.co/ka5bRrfcs8 https://t.co/iLYZ35oqLt"
+	},
+	{
 		"created_at": "Tue Oct 25 21:02:38 +0000 2022",
 		"id": 1585013991016784000,
 		"id_str": "1585013991016783872",
