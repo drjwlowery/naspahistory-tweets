@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 18:06:00 +0000 2023",
+		"id": 1613235793291534300,
+		"id_str": "1613235793291534354",
+		"full_text": "This article from UVA's alumni magazine describes the evolution of the dean of students office at UVA. The former deans include 2 former @NASPAtweets Presidents/Board Directors: Penny Rue (2018-19) and James Newman (1948-49).\n\nIt’s Not Easy Being Dean.\nhttps://t.co/jBhXEYAhp0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASPAtweets",
+					"name": "NASPA",
+					"id": 93729105,
+					"id_str": "93729105",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jBhXEYAhp0",
+					"expanded_url": "https://uvamagazine.org/articles/its_not_easy_being_dean#.Y7dDYKGtNf8.twitter",
+					"display_url": "uvamagazine.org/articles/its_n…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/nt1IV8SxLc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nt1IV8SxLc",
+							"expanded_url": "http://linktr.ee/naspahistory",
+							"display_url": "linktr.ee/naspahistory",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 39,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This article from UVA's alumni magazine describes the evolution of the dean of students office at UVA. The former deans include 2 former @NASPAtweets Presidents/Board Directors: Penny Rue (2018-19) and James Newman (1948-49).\n\nIt’s Not Easy Being Dean.\nhttps://t.co/jBhXEYAhp0"
+	},
+	{
 		"created_at": "Wed Jan 04 16:43:30 +0000 2023",
 		"id": 1610678317195366400,
 		"id_str": "1610678317195366406",
