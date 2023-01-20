@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 19 16:56:07 +0000 2023",
+		"id": 1616117309416046600,
+		"id_str": "1616117309416046592",
+		"full_text": "If you want to learn more about Dr. Shaffer's life and career, read Robert H. Shaffer: The Quintessential “Do-Gooder” by George D. Kuh and Mike Coomes, Journal of Counseling and Development (June 1986). https://t.co/vnOq5wPje7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vnOq5wPje7",
+					"expanded_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/j.1556-6676.1986.tb01022.x",
+					"display_url": "onlinelibrary.wiley.com/doi/epdf/10.10…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1616117014657130500,
+		"in_reply_to_status_id_str": "1616117014657130496",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/nt1IV8SxLc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nt1IV8SxLc",
+							"expanded_url": "http://linktr.ee/naspahistory",
+							"display_url": "linktr.ee/naspahistory",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 39,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you want to learn more about Dr. Shaffer's life and career, read Robert H. Shaffer: The Quintessential “Do-Gooder” by George D. Kuh and Mike Coomes, Journal of Counseling and Development (June 1986). https://t.co/vnOq5wPje7"
+	},
+	{
+		"created_at": "Thu Jan 19 16:54:56 +0000 2023",
+		"id": 1616117014657130500,
+		"id_str": "1616117014657130496",
+		"full_text": "Created in 1986, this award is named for Dr. Robert H. Shaffer a Dean and Professor Emeritus at Indiana Univ. Each recipient has inspired graduate students; has a distinguished record of scholarly achievement; and has made significant contributions to professional associations. https://t.co/5EF8Csr5m4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1616116900597227500,
+					"id_str": "1616116900597227520",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Fm2Zwi-aYAAL7Zm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fm2Zwi-aYAAL7Zm.jpg",
+					"url": "https://t.co/5EF8Csr5m4",
+					"display_url": "pic.twitter.com/5EF8Csr5m4",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1616117014657130496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1794,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1616116900597227500,
+					"id_str": "1616116900597227520",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Fm2Zwi-aYAAL7Zm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fm2Zwi-aYAAL7Zm.jpg",
+					"url": "https://t.co/5EF8Csr5m4",
+					"display_url": "pic.twitter.com/5EF8Csr5m4",
+					"expanded_url": "https://twitter.com/NASPAhistory/status/1616117014657130496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1794,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1616100825734209500,
+		"in_reply_to_status_id_str": "1616100825734209536",
+		"in_reply_to_user_id": 937716186057527300,
+		"in_reply_to_user_id_str": "937716186057527297",
+		"in_reply_to_screen_name": "NASPAhistory",
+		"user": {
+			"id": 937716186057527300,
+			"id_str": "937716186057527297",
+			"name": "NASPA History",
+			"screen_name": "NASPAhistory",
+			"location": "",
+			"description": "Founded in 1919, NASPA is the leading association for the advancement, health, and sustainability of the student affairs profession.",
+			"url": "https://t.co/nt1IV8SxLc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nt1IV8SxLc",
+							"expanded_url": "http://linktr.ee/naspahistory",
+							"display_url": "linktr.ee/naspahistory",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 39,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 16:12:15 +0000 2017",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937719997421490177/ChhInw3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937716186057527297/1512404911",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			120855168
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Created in 1986, this award is named for Dr. Robert H. Shaffer a Dean and Professor Emeritus at Indiana Univ. Each recipient has inspired graduate students; has a distinguished record of scholarly achievement; and has made significant contributions to professional associations. https://t.co/5EF8Csr5m4"
+	},
+	{
 		"created_at": "Wed Jan 11 18:06:00 +0000 2023",
 		"id": 1613235793291534300,
 		"id_str": "1613235793291534354",
